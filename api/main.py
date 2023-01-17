@@ -1,13 +1,19 @@
-from flask import Flask, render_template
-from markupsafe import escape
+from flask import Flask
+from dash import Dash
+import pandas as pd
 app = Flask(__name__)
+dashapp = Dash(__name__, server=app)
 
-@app.route("/search_player/:name")
-def hello_world():
-    return json
+data_players = pd.read_csv("NotesAtq.csv").to_html()
+@app.route('/')
+def index():
+    return 'Hello, World!'
 
-@app.route('/test')
-def hello():
-    return redirect("http://www.example.com", code=302)
+@app.route('/get_player/<name>')
+def get_info_player(name):
+    #{name:{"tirs":10}}
+    #data_players
+    return data_players
 
-app.run(host='localhost', port=5000)
+if __name__ == '__main__':
+    app.run(host='localhost', port=5000)
