@@ -1,9 +1,13 @@
-from flask import Flask
-
+from flask import Flask, render_template
+from markupsafe import escape
 app = Flask(__name__)
 
-@app.route("/")
+@app.route("/search_player/:name")
 def hello_world():
-    return "<p>Hello, World!</p>"
+    return json
 
-app.run("localhost")
+@app.route('/test')
+def hello():
+    return redirect("http://www.example.com", code=302)
+
+app.run(host='localhost', port=5000)
