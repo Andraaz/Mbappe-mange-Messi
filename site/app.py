@@ -4,7 +4,9 @@ import pandas as pd
 import requests
 
 app = Dash(__name__, url_base_pathname='/app/')
-data = requests.get("http://localhost:5000/get_player/messi").json()
+data = requests.get("http://localhost:5000/get_player/messi")
+#TODO LE return renvoie 2 Valeurs, réussir à get la première
+print(data(0))
 jso_result = pd.DataFrame(data)
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options

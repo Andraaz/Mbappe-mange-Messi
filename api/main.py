@@ -12,7 +12,7 @@ def index():
 def get_info_player(name):
     #{name:{"tirs":10}}
     #data_players
-    return data_players.iloc[:10].to_dict()
+    return '{} {}'.format(data_players.iloc[:10].to_dict(), "test") 
 
 if __name__ == '__main__':
     app.run(host='localhost', port=5000)
