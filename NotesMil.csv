@@ -1,0 +1,906 @@
+Player,Nation,Pos,Squad,Comp,Age,MP,PKGoals,Goals,Block,Tir,Passe,Dribbles,Note Finale,classement_equipe
+Manuel Locatelli,ITA,MF,Juventus,Serie A,24.0,31,0,3,96,87,73,66,80.0,1
+Thiago Mendes,BRA,MFDF,Lyon,Ligue 1,30.0,29,0,2,76,80,82,77,79.0,1
+Pathé Ciss,SEN,MF,Rayo Vallecano,La Liga,28.0,31,0,2,93,79,69,76,79.0,1
+Khéphren Thuram-Ulie,FRA,MF,Nice,Ligue 1,21.0,36,0,4,90,90,78,59,79.0,1
+Manu Morlanes,ESP,MF,Espanyol,La Liga,23.0,27,0,2,79,87,71,76,78.0,1
+Mario Lemina,GAB,MF,Nice,Ligue 1,28.0,32,0,2,83,80,79,65,77.0,2
+Ismaël Bennacer,ALG,MF,Milan,Serie A,24.0,31,0,2,74,78,77,76,76.0,1
+Arturo Vidal,CHI,MF,Inter,Serie A,35.0,28,0,1,86,61,74,83,76.0,1
+Fabián Ruiz Peña,ESP,MF,Napoli,Serie A,26.0,32,0,7,64,91,87,60,76.0,1
+Fabinho,BRA,MF,Liverpool,Premier League,28.0,29,2,5,84,84,78,57,76.0,1
+Franck Kessié,CIV,MF,Milan,Serie A,25.0,31,2,6,83,87,78,56,76.0,2
+Sergio Busquets,ESP,MF,Barcelona,La Liga,33.0,36,0,2,76,79,83,60,74.0,1
+Sofyan Amrabat,MAR,MF,Fiorentina,Serie A,25.0,23,0,1,80,71,79,65,74.0,1
+Marco Verratti,ITA,MF,Paris S-G,Ligue 1,29.0,24,0,2,76,79,81,61,74.0,1
+Gonzalo Melero,ESP,MF,Levante,La Liga,28.0,29,2,7,83,93,69,48,73.0,1
+Idrissa Gana Gueye,SEN,MF,Paris S-G,Ligue 1,32.0,26,0,3,66,76,87,63,73.0,2
+Niklas Dorsch,GER,MF,Augsburg,Bundesliga,24.0,30,0,1,90,74,68,55,72.0,1
+Geoffrey Kondogbia,CTA,MFDF,Atlético Madrid,La Liga,29.0,28,0,1,74,72,75,65,72.0,1
+Danilo Cataldi,ITA,MF,Lazio,Serie A,27.0,32,0,1,87,65,68,66,72.0,1
+Frenkie de Jong,NED,MF,Barcelona,La Liga,25.0,32,0,3,66,82,88,54,72.0,2
+Djibril Sow,SUI,MF,Eint Frankfurt,Bundesliga,25.0,31,0,2,83,80,70,54,72.0,1
+William Carvalho,POR,MF,Betis,La Liga,30.0,33,0,2,79,64,82,64,72.0,1
+Jacob Ramsey,ENG,MF,Aston Villa,Premier League,21.0,34,0,6,77,90,77,42,72.0,1
+Axel Witsel,BEL,MFDF,Dortmund,Bundesliga,33.0,29,0,2,84,86,90,28,72.0,1
+Azor Matusiwa,NED,MF,Reims,Ligue 1,24.0,29,0,1,93,63,68,65,72.0,1
+Manuel Lanzini,ARG,MFFW,West Ham,Premier League,29.0,30,3,5,60,89,84,54,72.0,1
+Vincent Pajot,FRA,MF,Metz,Ligue 1,31.0,30,0,1,81,71,76,58,72.0,1
+Nicolás González,ESP,MF,Barcelona,La Liga,20.0,27,0,2,55,80,76,73,71.0,3
+Boubacar Kamara,FRA,MFDF,Marseille,Ligue 1,22.0,34,0,1,83,62,88,52,71.0,2
+Thomas Mangani,FRA,MF,Angers,Ligue 1,35.0,33,6,7,87,81,52,64,71.0,1
+Fernando,BRA,MFDF,Sevilla,La Liga,34.0,24,0,1,79,73,80,52,71.0,1
+Gerson,BRA,MFFW,Marseille,Ligue 1,25.0,35,0,9,68,90,85,40,71.0,1
+Salva Sevilla,ESP,MF,Mallorca,La Liga,38.0,28,4,5,83,71,56,74,71.0,1
+Omar Mascarell,ESP,MF,Elche,La Liga,29.0,32,0,0,92,50,81,60,71.0,1
+Ander Herrera,ESP,MF,Paris S-G,Ligue 1,32.0,19,0,3,68,77,74,59,70.0,3
+Eduardo Camavinga,FRA,MF,Real Madrid,La Liga,19.0,25,0,2,65,76,81,59,70.0,1
+Lucas Leiva,BRA,MF,Lazio,Serie A,35.0,35,0,0,90,50,91,48,70.0,2
+Guido Rodríguez,ARG,MF,Betis,La Liga,28.0,32,0,1,89,56,77,58,70.0,2
+Danilo Pereira,POR,MF,Paris S-G,Ligue 1,30.0,27,0,5,77,88,90,25,70.0,4
+Francis Coquelin,FRA,MF,Villarreal,La Liga,31.0,20,0,2,68,79,69,65,70.0,1
+Stanislav Lobotka,SVK,MF,Napoli,Serie A,27.0,23,0,1,54,75,82,68,70.0,2
+Sandro Tonali,ITA,MF,Milan,Serie A,22.0,36,0,5,79,83,65,52,70.0,3
+Nicolas Höfler,GER,MF,Freiburg,Bundesliga,32.0,30,0,2,94,62,62,58,69.0,1
+Jorginho,ITA,MF,Chelsea,Premier League,30.0,29,6,6,73,62,79,62,69.0,1
+Saa Luki?,SRB,MF,Torino,Serie A,25.0,35,3,5,76,72,82,45,69.0,1
+Pierre Højbjerg,DEN,MF,Tottenham,Premier League,26.0,36,0,2,85,61,85,46,69.0,1
+Mateo Kova?i?,CRO,MF,Chelsea,Premier League,28.0,25,0,2,64,68,77,67,69.0,2
+Ýlkay Gündoðan,GER,MF,Manchester City,Premier League,31.0,27,0,8,63,85,76,53,69.0,1
+Rodri,ESP,MF,Manchester City,Premier League,25.0,33,0,7,73,89,93,20,69.0,2
+Nemanja Gudelj,SRB,MFDF,Sevilla,La Liga,30.0,21,0,0,75,42,75,85,69.0,2
+Leo tulac,SVN,MF,Empoli,Serie A,27.0,23,0,2,61,81,49,79,68.0,1
+Szymon ?urkowski,POL,MF,Empoli,Serie A,24.0,35,0,6,89,83,44,57,68.0,2
+Robert Andrich,GER,MF,Leverkusen,Bundesliga,27.0,26,0,4,77,81,51,63,68.0,1
+Fred,BRA,MF,Manchester Utd,Premier League,29.0,28,0,4,88,84,70,29,68.0,1
+Benjamin André,FRA,MF,Lille,Ligue 1,31.0,33,0,2,91,74,51,56,68.0,1
+Mikel Vesga,ESP,MF,Athletic Club,La Liga,29.0,32,0,2,86,84,44,58,68.0,1
+Aurélien Tchouaméni,FRA,MF,Monaco,Ligue 1,22.0,35,0,3,75,66,77,55,68.0,1
+Chimuanya Ugochukwu,FRA,MF,Rennes,Ligue 1,18.0,18,0,1,70,75,65,64,68.0,1
+Lucas Douath,FRA,MF,Saint-Étienne,Ligue 1,18.0,31,0,1,69,72,81,50,68.0,1
+Martín Zubimendi,ESP,MF,Real Sociedad,La Liga,23.0,36,0,2,85,67,71,46,67.0,1
+Nico Ribaudo,ESP,MFFW,Espanyol,La Liga,21.0,31,0,2,66,82,65,55,67.0,2
+Marcelo Brozovi?,CRO,MF,Inter,Serie A,29.0,35,0,2,78,59,90,40,67.0,2
+Scott McTominay,SCO,MF,Manchester Utd,Premier League,25.0,30,0,1,86,55,68,58,67.0,2
+Samuele Ricci,ITA,MF,Empoli,Serie A,20.0,21,0,1,66,69,72,60,67.0,3
+João Moutinho,POR,MF,Wolves,Premier League,35.0,35,0,2,76,69,70,52,67.0,1
+Fran Beltrán,ESP,MF,Celta Vigo,La Liga,23.0,37,0,1,70,59,89,50,67.0,1
+Declan Rice,ENG,MF,West Ham,Premier League,23.0,36,0,1,92,53,89,34,67.0,2
+David Pereira da Costa,POR,MFFW,Lens,Ligue 1,21.0,33,0,3,60,80,56,68,66.0,1
+Jonas Martin,FRA,MF,Rennes,Ligue 1,32.0,29,0,1,68,60,87,48,66.0,2
+Ibrahima Sissoko,FRA,MFDF,Strasbourg,Ligue 1,24.0,35,0,2,91,71,52,52,66.0,1
+Fernandinho,BRA,MFDF,Manchester City,Premier League,37.0,19,0,2,57,70,71,68,66.0,3
+Étienne Capoue,FRA,MF,Villarreal,La Liga,33.0,30,0,1,70,61,80,52,66.0,2
+Thomas Delaney,DEN,MF,Sevilla,La Liga,30.0,26,0,2,84,73,44,61,66.0,3
+Emile Smith Rowe,ENG,MFFW,Arsenal,Premier League,21.0,33,0,10,59,93,61,50,66.0,1
+Diego Demme,GER,MF,Napoli,Serie A,30.0,19,0,1,60,74,65,67,66.0,3
+Maxime Lopez,FRA,MF,Sassuolo,Serie A,24.0,35,0,2,72,73,90,30,66.0,1
+Bernardo Silva,POR,MFFW,Manchester City,Premier League,27.0,35,0,8,63,87,78,34,66.0,4
+Alessandro Deiola,ITA,MF,Cagliari,Serie A,26.0,33,0,4,86,82,43,54,66.0,1
+Zaydou Youssouf,FRA,MF,Saint-Étienne,Ligue 1,22.0,30,0,1,69,59,70,68,66.0,2
+Rúben Neves,POR,MF,Wolves,Premier League,25.0,33,0,4,73,74,63,56,66.0,2
+Daniel Bessa,ITA,MFFW,Hellas Verona,Serie A,29.0,24,0,1,74,72,42,75,66.0,1
+Alfred Duncan,GHA,MF,Fiorentina,Serie A,29.0,33,0,2,71,84,52,56,66.0,2
+Amadou Haidara,MLI,MF,RB Leipzig,Bundesliga,24.0,20,0,3,70,76,55,62,66.0,1
+Baptiste Santamaria,FRA,MFDF,Rennes,Ligue 1,27.0,34,0,2,84,65,76,36,65.0,3
+Oier Zarraga,ESP,MF,Athletic Club,La Liga,23.0,31,1,1,92,54,37,76,65.0,2
+Kouadio Koné,FRA,MF,M'Gladbach,Bundesliga,21.0,27,0,2,74,61,74,51,65.0,1
+Salih Özcan,TUR,MF,Köln,Bundesliga,24.0,31,0,2,77,69,61,54,65.0,1
+Toma Bai?,CRO,MF,Lazio,Serie A,25.0,29,0,0,81,49,59,72,65.0,3
+Leander Dendoncker,BEL,MF,Wolves,Premier League,27.0,30,0,2,90,67,77,27,65.0,3
+Daniel Parejo,ESP,MF,Villarreal,La Liga,33.0,33,1,2,76,62,73,48,65.0,3
+Charles Aránguiz,CHI,MF,Leverkusen,Bundesliga,33.0,26,0,1,68,65,60,67,65.0,2
+Teun Koopmeiners,NED,MF,Atalanta,Serie A,24.0,30,0,4,66,84,52,58,65.0,1
+Federico Valverde,URU,MF,Real Madrid,La Liga,23.0,31,0,0,71,50,79,54,64.0,2
+Salis Abdul Samed,GHA,MF,Clermont Foot,Ligue 1,22.0,31,0,1,59,60,91,47,64.0,1
+Pablo Rosario,NED,MF,Nice,Ligue 1,25.0,36,0,0,82,50,82,41,64.0,3
+N'Golo Kanté,FRA,MF,Chelsea,Premier League,31.0,26,0,2,63,66,70,55,64.0,3
+Yves Bissouma,MLI,MF,Brighton,Premier League,25.0,26,0,1,69,54,80,54,64.0,1
+Youri Tielemans,BEL,MF,Leicester City,Premier League,25.0,32,2,6,87,74,57,38,64.0,1
+Lucien Agoume,FRA,MF,Brest,Ligue 1,20.0,27,0,0,84,47,66,57,64.0,1
+Albin Ekdal,SWE,MF,Sampdoria,Serie A,32.0,26,0,1,79,67,47,61,64.0,1
+James Ward-Prowse,ENG,MF,Southampton,Premier League,27.0,36,4,10,87,82,54,34,64.0,2
+Joshua Kimmich,GER,MF,Bayern Munich,Bundesliga,27.0,28,0,3,77,73,71,36,64.0,1
+Andrés Guardado,MEX,MF,Betis,La Liga,35.0,28,0,0,77,48,65,65,64.0,3
+Vitaly Janelt,GER,MF,Brentford,Premier League,24.0,31,0,4,81,80,33,64,64.0,1
+Georginio Wijnaldum,NED,MF,Paris S-G,Ligue 1,31.0,31,0,1,75,69,87,24,64.0,5
+Papu Gómez,ARG,MFFW,Sevilla,La Liga,34.0,29,0,5,58,85,71,41,64.0,4
+Oriol Romeu,ESP,MF,Southampton,Premier League,30.0,36,0,2,77,73,59,46,64.0,1
+Granit Xhaka,SUI,MFDF,Arsenal,Premier League,29.0,27,0,1,74,54,75,54,64.0,2
+Nemanja Mati?,SRB,MF,Manchester Utd,Premier League,33.0,23,0,0,74,44,70,68,64.0,3
+Seko Fofana,CIV,MF,Lens,Ligue 1,27.0,38,0,8,63,75,79,35,63.0,2
+Azzedine Ounahi,MAR,MF,Angers,Ligue 1,22.0,32,0,2,61,76,77,38,63.0,2
+Keidi Bare,ALB,MF,Espanyol,La Liga,24.0,25,0,1,79,77,68,28,63.0,3
+Luka Modri?,CRO,MF,Real Madrid,La Liga,36.0,28,1,2,67,56,82,46,63.0,3
+Diadie Samassékou,MLI,MF,Hoffenheim,Bundesliga,26.0,24,0,2,80,74,47,51,63.0,1
+Maximilian Arnold,GER,MF,Wolfsburg,Bundesliga,28.0,34,0,4,85,74,57,36,63.0,1
+Kevin Kampl,SVN,MF,RB Leipzig,Bundesliga,31.0,27,0,0,71,47,84,49,63.0,2
+Ruben Loftus-Cheek,ENG,MFDF,Chelsea,Premier League,26.0,24,0,0,72,45,79,56,63.0,4
+Jamal Musiala,GER,MFFW,Bayern Munich,Bundesliga,19.0,30,0,5,63,82,64,44,63.0,2
+Amadou Onana,BEL,MF,Lille,Ligue 1,20.0,32,0,1,73,62,64,48,62.0,2
+Renato Sanches,POR,MF,Lille,Ligue 1,24.0,25,0,2,59,72,59,56,62.0,3
+Exequiel Palacios,ARG,MF,Leverkusen,Bundesliga,23.0,23,0,2,53,77,66,51,62.0,3
+Pedro Chirivella,ESP,MF,Nantes,Ligue 1,25.0,31,0,3,61,82,77,30,62.0,1
+Cheick Doucouré,MLI,MF,Lens,Ligue 1,22.0,34,0,1,70,51,79,50,62.0,3
+Piotr Zieli?ski,POL,MF,Napoli,Serie A,28.0,35,0,6,72,86,60,30,62.0,4
+Simone Bastoni,ITA,MFDF,Spezia,Serie A,25.0,31,0,3,88,81,34,44,62.0,1
+Matheus Henrique,BRA,MF,Sassuolo,Serie A,24.0,25,0,0,56,46,83,64,62.0,3
+Manu Trigueros,ESP,MFFW,Villarreal,La Liga,30.0,35,0,6,65,85,51,46,62.0,4
+Davide Frattesi,ITA,MF,Sassuolo,Serie A,22.0,36,0,4,83,67,66,34,62.0,2
+Joan Jordán,ESP,MF,Sevilla,La Liga,27.0,36,0,0,72,50,82,46,62.0,5
+Florian Tardieu,FRA,MF,Troyes,Ligue 1,30.0,30,4,4,82,58,65,43,62.0,1
+Ivan Rakiti?,CRO,MF,Sevilla,La Liga,34.0,35,1,4,86,77,75,10,62.0,6
+Janik Haberer,GER,MF,Freiburg,Bundesliga,28.0,26,0,3,79,90,37,42,62.0,2
+Boubacar Traoré,MLI,MF,Metz,Ligue 1,20.0,27,0,1,81,56,60,53,62.0,2
+Naby Keïta,GUI,MF,Liverpool,Premier League,27.0,23,0,3,61,74,62,52,62.0,2
+Mario Paali?,CRO,MFFW,Atalanta,Serie A,27.0,37,0,13,73,97,56,24,62.0,2
+Maxence Caqueret,FRA,MF,Lyon,Ligue 1,22.0,31,0,0,84,50,76,38,62.0,2
+Leandro Paredes,ARG,MF,Paris S-G,Ligue 1,27.0,15,0,1,60,61,71,55,62.0,6
+Wataru Endo,JPN,MF,Stuttgart,Bundesliga,29.0,33,0,4,88,71,53,37,62.0,1
+Casemiro,BRA,MF,Real Madrid,La Liga,30.0,32,0,1,94,53,75,28,62.0,4
+Konrad Laimer,AUT,MF,RB Leipzig,Bundesliga,25.0,26,0,4,71,88,44,47,62.0,3
+Adrien Thomasson,FRA,MF,Strasbourg,Ligue 1,28.0,31,0,8,77,88,38,46,62.0,2
+Óscar Valentín,ESP,MF,Rayo Vallecano,La Liga,27.0,35,0,0,86,50,71,40,62.0,2
+Jeffrey Schlupp,GHA,MFFW,Crystal Palace,Premier League,29.0,32,0,4,90,83,34,39,62.0,1
+Denis Zakaria,SUI,MFDF,M'Gladbach,Bundesliga,25.0,16,0,2,59,62,67,57,61.0,2
+Hugo Guillamón,ESP,MFDF,Valencia,La Liga,22.0,31,0,1,82,77,58,26,61.0,1
+Sebastian Rudy,GER,MF,Hoffenheim,Bundesliga,32.0,21,0,3,63,80,24,76,61.0,2
+Batista Mendy,FRA,MFDF,Angers,Ligue 1,22.0,34,0,1,75,60,74,36,61.0,3
+Jordan Henderson,ENG,MF,Liverpool,Premier League,31.0,35,0,2,64,67,67,46,61.0,4
+Conor Gallagher,ENG,MF,Crystal Palace,Premier League,22.0,34,0,8,82,85,37,40,61.0,2
+Thiago Alcántara,ESP,MF,Liverpool,Premier League,31.0,25,0,1,61,53,80,50,61.0,3
+Andrea Schiavone,ITA,MF,Salernitana,Serie A,29.0,14,0,1,60,67,50,68,61.0,1
+Moussa Sissoko,FRA,MF,Watford,Premier League,32.0,36,0,2,81,66,50,46,61.0,1
+Bryan Cristante,ITA,MF,Roma,Serie A,27.0,34,0,2,78,67,57,42,61.0,1
+Jerdy Schouten,NED,MF,Bologna,Serie A,25.0,17,0,1,64,65,52,62,61.0,1
+Álex Fernández,ESP,MF,Cádiz,La Liga,29.0,32,1,3,84,77,57,26,61.0,1
+Flavien Tait,FRA,MF,Rennes,Ligue 1,29.0,28,0,5,66,80,74,25,61.0,4
+Jean Onana,CMR,MF,Bordeaux,Ligue 1,22.0,23,0,3,68,76,45,55,61.0,1
+Óliver Torres,ESP,MFFW,Sevilla,La Liga,27.0,26,0,2,59,77,55,54,61.0,7
+Jonjo Shelvey,ENG,MF,Newcastle Utd,Premier League,30.0,24,0,2,69,57,57,62,61.0,1
+Jean Lucas,BRA,MF,Monaco,Ligue 1,23.0,28,0,1,78,54,47,64,61.0,2
+Adrien Tameze,CMR,MFDF,Hellas Verona,Serie A,28.0,38,0,4,74,86,47,36,61.0,2
+Jean-Ricner Bellegarde,FRA,MF,Strasbourg,Ligue 1,23.0,36,0,2,71,66,60,48,61.0,3
+Rodrigo De Paul,ARG,MF,Atlético Madrid,La Liga,28.0,36,0,3,68,78,54,44,61.0,2
+Santi Comesaña,ESP,MF,Rayo Vallecano,La Liga,25.0,35,0,1,81,55,63,39,60.0,3
+Rodrigo Battaglia,ARG,MF,Mallorca,La Liga,30.0,26,0,0,87,46,56,52,60.0,2
+Angelo Stiller,GER,MF,Hoffenheim,Bundesliga,21.0,26,0,2,74,76,53,39,60.0,3
+Thomas Monconduit,FRA,MF,Lorient,Ligue 1,31.0,34,0,3,81,70,43,47,60.0,1
+Thomas Partey,GHA,MF,Arsenal,Premier League,28.0,24,0,2,64,57,66,55,60.0,3
+Bruno Guimarães,BRA,MF,Newcastle Utd,Premier League,24.0,17,0,5,67,72,64,37,60.0,2
+Remo Freuler,SUI,MF,Atalanta,Serie A,30.0,29,0,1,80,56,68,38,60.0,3
+Julian Brandt,GER,MFFW,Dortmund,Bundesliga,26.0,31,0,9,64,96,40,40,60.0,2
+Ellyes Skhiri,TUN,MF,Köln,Bundesliga,27.0,22,0,4,71,77,57,33,60.0,2
+Joris Chotard,FRA,MF,Montpellier,Ligue 1,20.0,36,0,1,84,59,70,26,60.0,1
+Ander Guevara,ESP,MF,Real Sociedad,La Liga,24.0,17,0,0,68,39,62,69,60.0,2
+Alberto Grassi,ITA,MF,Cagliari,Serie A,27.0,30,0,0,86,50,56,48,60.0,2
+Giacomo Bonaventura,ITA,MF,Fiorentina,Serie A,32.0,31,0,4,60,74,62,45,60.0,3
+James Milner,ENG,MFDF,Liverpool,Premier League,36.0,24,0,0,81,45,57,57,60.0,5
+Lucas Torreira,URU,MF,Fiorentina,Serie A,26.0,31,0,5,57,85,80,19,60.0,4
+Jean-Victor Makengo,FRA,MF,Udinese,Serie A,23.0,33,0,1,80,53,61,46,60.0,1
+Luis Alberto,ESP,MF,Lazio,Serie A,29.0,34,0,5,67,78,58,35,60.0,4
+Rade Kruni?,BIH,MFFW,Milan,Serie A,28.0,28,0,0,66,48,49,75,60.0,4
+Hakan Çalhanoðlu,TUR,MF,Inter,Serie A,28.0,34,3,7,74,74,63,31,60.0,3
+Lucas Paquetá,BRA,MFFW,Lyon,Ligue 1,24.0,35,1,9,74,76,44,48,60.0,3
+Koke,ESP,MF,Atlético Madrid,La Liga,30.0,31,0,1,73,61,68,38,60.0,3
+Rominigue Kouamé,MLI,MF,Troyes,Ligue 1,25.0,34,0,1,68,51,80,42,60.0,2
+Mickael Malsa,MTQ,MF,Levante,La Liga,26.0,26,0,1,85,69,52,34,60.0,2
+Haris Belkebla,ALG,MF,Brest,Ligue 1,28.0,31,0,0,79,50,67,46,60.0,2
+Gavi Paez,ESP,MFFW,Barcelona,La Liga,17.0,34,0,2,64,65,76,36,60.0,4
+Matteo Pessina,ITA,MFFW,Atalanta,Serie A,25.0,27,0,1,74,53,57,54,60.0,4
+Vicente Iborra,ESP,MF,Villarreal,La Liga,34.0,20,0,0,66,41,66,67,60.0,5
+Orel Mangala,BEL,MF,Stuttgart,Bundesliga,24.0,28,0,1,66,56,62,55,60.0,2
+Aster Vranckx,BEL,MF,Wolfsburg,Bundesliga,19.0,24,0,2,81,65,44,50,60.0,2
+Adrien Rabiot,FRA,MF,Juventus,Serie A,27.0,32,0,0,88,50,57,47,60.0,2
+Léo Leroy,FRA,MF,Montpellier,Ligue 1,22.0,24,0,0,82,45,56,52,59.0,3
+Toni Moya,ESP,MF,Alavés,La Liga,24.0,28,0,0,85,48,27,75,59.0,1
+Emanuel Vignato,ITA,MFDF,Bologna,Serie A,21.0,24,0,0,50,45,65,77,59.0,2
+Alexis Mac Allister,ARG,MFFW,Brighton,Premier League,23.0,33,2,5,81,74,58,22,59.0,3
+Ryad Boudebouz,ALG,MFFW,Saint-Étienne,Ligue 1,32.0,30,1,3,61,68,48,58,59.0,3
+David López,ESP,MFDF,Espanyol,La Liga,32.0,18,0,0,70,40,53,72,59.0,4
+Yeremi Pino,ESP,MFFW,Villarreal,La Liga,19.0,31,0,6,81,90,44,21,59.0,6
+Arthur Melo,BRA,MF,Juventus,Serie A,25.0,20,0,0,56,41,73,67,59.0,3
+Jordan Ferri,FRA,MF,Montpellier,Ligue 1,30.0,34,0,0,70,50,70,46,59.0,2
+Houssem Aouar,FRA,MFFW,Lyon,Ligue 1,23.0,36,0,6,58,73,75,30,59.0,4
+Adam Lallana,ENG,MF,Brighton,Premier League,34.0,24,0,0,75,45,67,50,59.0,2
+Riqui Puig,ESP,MF,Barcelona,La Liga,22.0,15,0,1,40,60,68,67,59.0,5
+Cheikhou Kouyaté,SEN,MF,Crystal Palace,Premier League,32.0,27,0,0,89,47,51,50,59.0,3
+Morgan Schneiderlin,FRA,MF,Nice,Ligue 1,32.0,20,0,0,68,41,54,72,59.0,4
+Jean-Eudes Aholou,CIV,MF,Strasbourg,Ligue 1,28.0,25,0,1,55,67,57,58,59.0,4
+Jon Moncayola,ESP,MF,Osasuna,La Liga,24.0,36,0,2,81,59,51,40,58.0,1
+Marshall Munetsi,ZIM,MFDF,Reims,Ligue 1,25.0,24,0,5,80,77,47,30,58.0,3
+Dion Lopy,SEN,MF,Reims,Ligue 1,20.0,26,0,0,71,46,71,42,58.0,2
+Loum Ndiaye,SEN,MF,Alavés,La Liga,25.0,32,0,2,86,65,28,54,58.0,2
+Louis Schaub,AUT,MFFW,Köln,Bundesliga,27.0,28,0,1,84,75,15,59,58.0,3
+Ethan Ampadu,WAL,MFDF,Venezia,Serie A,21.0,29,0,0,93,49,33,59,58.0,1
+Antonio Vacca,ITA,MF,Venezia,Serie A,32.0,21,0,0,75,42,66,51,58.0,2
+David Silva,ESP,MF,Real Sociedad,La Liga,36.0,25,0,2,63,68,72,28,58.0,3
+Shandon Baptiste,GRN,MF,Brentford,Premier League,24.0,22,0,1,51,60,52,67,58.0,2
+Marten de Roon,NED,MFDF,Atalanta,Serie A,31.0,30,0,3,65,84,73,8,58.0,5
+Pape Matar Sarr,SEN,MF,Metz,Ligue 1,19.0,33,0,1,71,54,59,48,58.0,3
+Mattéo Guendouzi,FRA,MF,Marseille,Ligue 1,23.0,38,0,4,58,68,82,24,58.0,3
+Renato Tapia,PER,MF,Celta Vigo,La Liga,26.0,29,0,0,85,49,55,41,58.0,2
+Hugo Magnetti,FRA,MF,Brest,Ligue 1,23.0,28,0,0,67,48,77,42,58.0,3
+Unai Vencedor Paris,ESP,MF,Athletic Club,La Liga,21.0,34,0,0,90,50,42,48,58.0,3
+Sergej Milinkovi?-Savi?,SRB,MF,Lazio,Serie A,27.0,37,0,11,75,86,53,16,58.0,5
+Rodrigo Bentancur,URU,MF,Tottenham,Premier League,24.0,17,0,0,68,39,69,55,58.0,2
+Ajdin Hrustic,AUS,MF,Eint Frankfurt,Bundesliga,25.0,23,0,2,67,65,53,45,58.0,2
+Youssef Maleh,ITA,MF,Fiorentina,Serie A,23.0,28,0,2,63,77,54,36,58.0,5
+Sean Longstaff,ENG,MF,Newcastle Utd,Premier League,24.0,24,0,1,72,65,47,47,58.0,3
+Sergi Darder,ESP,MF,Espanyol,La Liga,28.0,36,0,3,60,64,65,41,58.0,5
+Brahim Díaz,ESP,MF,Milan,Serie A,22.0,31,0,3,62,81,57,32,58.0,5
+Moi Gómez,ESP,MFFW,Villarreal,La Liga,27.0,29,0,2,57,80,55,40,58.0,7
+Luis Milla,ESP,MF,Granada,La Liga,27.0,33,3,3,73,56,57,44,58.0,2
+Marco Reus,GER,MFFW,Dortmund,Bundesliga,32.0,29,0,9,74,88,50,19,58.0,3
+Iván Marcone,ARG,MF,Elche,La Liga,31.0,20,0,0,62,41,59,71,58.0,2
+Jordan Veretout,FRA,MF,Roma,Serie A,29.0,36,1,4,58,79,71,26,58.0,2
+Maxime Gonalons,FRA,MF,Granada,La Liga,33.0,24,0,0,80,45,61,47,58.0,1
+Pierrick Capelle,FRA,MFDF,Angers,Ligue 1,35.0,30,0,0,65,50,57,58,58.0,4
+Tristan Dingomé,CMR,MFFW,Troyes,Ligue 1,31.0,25,0,2,54,76,25,77,58.0,4
+Xavier Chavalerin,FRA,MFFW,Troyes,Ligue 1,31.0,34,0,5,68,84,35,46,58.0,3
+Yangel Herrera,VEN,MF,Espanyol,La Liga,24.0,23,0,1,67,59,52,55,58.0,6
+Henrikh Mkhitaryan,ARM,MFFW,Roma,Serie A,33.0,31,0,5,65,77,64,22,57.0,4
+Walace,BRA,MF,Udinese,Serie A,27.0,36,0,1,69,51,61,48,57.0,2
+Tommaso Pobega,ITA,MF,Torino,Serie A,22.0,33,0,4,70,80,51,28,57.0,2
+Martin Ødegaard,NOR,MF,Arsenal,Premier League,23.0,36,0,7,57,83,67,22,57.0,4
+Dominik Szoboszlai,HUN,MFFW,RB Leipzig,Bundesliga,21.0,31,0,6,75,89,35,28,57.0,4
+James McArthur,SCO,MF,Crystal Palace,Premier League,34.0,21,0,0,74,42,53,60,57.0,4
+Moreto Cassamã,GNB,MF,Reims,Ligue 1,24.0,17,0,2,69,65,51,42,57.0,4
+Oliver Skipp,ENG,MF,Tottenham,Premier League,21.0,18,0,0,67,40,69,52,57.0,3
+Max Christiansen,GER,MF,Greuther Fürth,Bundesliga,25.0,27,0,0,90,47,54,37,57.0,1
+Denis Suárez,ESP,MF,Celta Vigo,La Liga,28.0,38,0,4,69,86,48,25,57.0,3
+Florian Neuhaus,GER,MF,M'Gladbach,Bundesliga,25.0,29,0,4,83,70,43,32,57.0,3
+Yohann Magnin,FRA,MFDF,Clermont Foot,Ligue 1,24.0,24,0,1,75,58,46,48,57.0,2
+Andre-Frank Zambo Anguissa,CMR,MF,Napoli,Serie A,26.0,25,0,0,64,46,76,43,57.0,5
+Kevin De Bruyne,BEL,MF,Manchester City,Premier League,30.0,30,0,15,64,92,36,36,57.0,5
+Edoardo Bove,ITA,MFFW,Roma,Serie A,20.0,11,0,1,40,68,52,67,57.0,3
+Roberto Gagliardini,ITA,MF,Inter,Serie A,28.0,18,0,2,70,74,45,38,57.0,4
+Allan,BRA,MF,Everton,Premier League,31.0,28,0,0,81,48,42,51,56.0,1
+Daichi Kamada,JPN,MFFW,Eint Frankfurt,Bundesliga,25.0,32,0,4,60,84,40,38,56.0,3
+Giacomo Raspadori,ITA,MFFW,Sassuolo,Serie A,22.0,36,0,10,65,87,47,27,56.0,4
+Thomas Lemar,FRA,MF,Atlético Madrid,La Liga,26.0,24,0,4,54,80,40,48,56.0,4
+Yunus Musah,USA,MFFW,Valencia,La Liga,19.0,29,0,1,62,78,33,51,56.0,2
+José Luis García Vayá,ESP,MF,Levante,La Liga,23.0,29,0,0,73,49,51,52,56.0,3
+Samuel Moutoussamy,COD,MF,Nantes,Ligue 1,25.0,30,0,0,64,50,68,43,56.0,3
+Joelinton,BRA,MFFW,Newcastle Utd,Premier League,25.0,35,0,4,88,73,43,22,56.0,4
+Christian Nørgaard,DEN,MF,Brentford,Premier League,28.0,35,0,3,81,75,45,24,56.0,3
+Lovro Majer,CRO,MF,Rennes,Ligue 1,24.0,29,0,6,71,83,38,33,56.0,5
+Hicham Boudaoui,ALG,MF,Nice,Ligue 1,22.0,29,0,3,76,88,26,34,56.0,5
+Alex Oxlade-Chamberlain,ENG,MFFW,Liverpool,Premier League,28.0,17,0,2,58,68,38,60,56.0,6
+Ivan Ili?,SRB,MF,Hellas Verona,Serie A,21.0,32,0,1,81,58,51,33,56.0,3
+Lazar Samardzic,GER,MF,Udinese,Serie A,20.0,22,0,2,50,73,36,63,56.0,3
+Iddrisu Baba,GHA,MF,Mallorca,La Liga,26.0,26,0,2,72,65,50,37,56.0,3
+Jude Bellingham,ENG,MF,Dortmund,Bundesliga,18.0,32,0,3,72,68,66,16,56.0,4
+Johan Gastien,FRA,MF,Clermont Foot,Ligue 1,34.0,32,0,0,86,50,66,22,56.0,4
+Jason Berthomier,FRA,MF,Clermont Foot,Ligue 1,32.0,29,0,1,62,59,56,47,56.0,3
+Josh Brownhill,ENG,MF,Burnley,Premier League,26.0,35,0,2,87,64,31,44,56.0,1
+Fabien Lemoine,FRA,MF,Lorient,Ligue 1,35.0,21,0,0,62,42,67,53,56.0,2
+Mahdi Camara,FRA,MFDF,Saint-Étienne,Ligue 1,23.0,35,0,3,81,68,59,16,56.0,4
+Nicolò Barella,ITA,MF,Inter,Serie A,25.0,36,0,3,62,63,64,34,56.0,5
+Wylan Cyprien,FRA,MF,Nantes,Ligue 1,27.0,24,0,2,73,65,53,33,56.0,2
+Sofiane Diop,FRA,MFFW,Monaco,Ligue 1,21.0,30,0,6,57,90,30,47,56.0,3
+Jan Thielmann,GER,MFFW,Köln,Bundesliga,20.0,29,0,3,72,89,15,46,56.0,4
+Uro Ra?i?,SRB,MF,Valencia,La Liga,24.0,28,0,0,85,48,33,59,56.0,3
+Gianluca Busio,USA,MF,Venezia,Serie A,20.0,29,0,1,93,61,62,7,56.0,3
+Kerem Demirbay,GER,MF,Leverkusen,Bundesliga,28.0,29,1,1,85,50,42,49,56.0,4
+Weston McKennie,USA,MF,Juventus,Serie A,23.0,21,0,3,69,74,35,47,56.0,4
+Pascal Groß,GER,MFDF,Brighton,Premier League,30.0,29,0,2,79,69,41,32,55.0,4
+Habib Maïga,CIV,MFFW,Metz,Ligue 1,26.0,17,0,2,66,65,33,56,55.0,4
+Lars Stindl,GER,MFFW,M'Gladbach,Bundesliga,33.0,26,0,4,65,73,53,30,55.0,4
+Nemanja Maksimovi?,SRB,MF,Getafe,La Liga,27.0,35,0,1,87,55,33,45,55.0,1
+Albert Sambi Lokonga,BEL,MF,Arsenal,Premier League,22.0,19,0,0,69,41,68,43,55.0,5
+Jacopo Sala,ITA,MF,Spezia,Serie A,30.0,18,0,1,48,68,53,52,55.0,2
+Domen ?rnigoj,SVN,MFDF,Venezia,Serie A,26.0,34,0,3,90,72,35,22,55.0,4
+Alberto Moreno,ESP,MFDF,Villarreal,La Liga,29.0,24,0,3,59,74,41,47,55.0,8
+Lassana Coulibaly,MLI,MF,Salernitana,Serie A,26.0,31,0,0,88,50,56,27,55.0,2
+Gaetano Castrovilli,ITA,MF,Fiorentina,Serie A,25.0,23,0,1,61,63,27,68,55.0,6
+Douglas Luiz,BRA,MF,Aston Villa,Premier League,24.0,34,0,2,76,68,63,12,55.0,2
+John McGinn,SCO,MF,Aston Villa,Premier League,27.0,35,0,3,75,65,38,41,55.0,3
+Laurent Abergel,FRA,MF,Lorient,Ligue 1,29.0,34,0,0,67,50,61,41,55.0,3
+Yannick Gerhardt,GER,MFDF,Wolfsburg,Bundesliga,28.0,27,0,1,62,65,31,62,55.0,3
+Emil Forsberg,SWE,MFFW,RB Leipzig,Bundesliga,30.0,31,4,6,60,70,54,36,55.0,5
+Milan Badelj,CRO,MF,Genoa,Serie A,33.0,34,0,1,77,57,43,44,55.0,1
+Lucas Torró,ESP,MF,Osasuna,La Liga,27.0,33,0,1,82,52,37,50,55.0,2
+Mauro Arambarri,URU,MF,Getafe,La Liga,26.0,31,0,0,73,50,41,50,54.0,2
+Sanjin Prci?,BIH,MF,Strasbourg,Ligue 1,28.0,32,0,1,67,52,74,23,54.0,5
+Mateusz Klich,POL,MF,Leeds United,Premier League,31.0,33,0,1,74,52,37,53,54.0,1
+Sofian Kiyine,MAR,MFFW,Venezia,Serie A,24.0,26,0,1,59,57,33,69,54.0,5
+Tanner Tessmann,USA,MF,Venezia,Serie A,20.0,20,0,0,77,41,28,70,54.0,6
+Jakub Kiwior,POL,MF,Spezia,Serie A,22.0,22,0,0,79,43,40,55,54.0,3
+Tyler Adams,USA,MF,RB Leipzig,Bundesliga,23.0,24,0,0,58,45,68,46,54.0,6
+Ondrej Duda,SVK,MF,Köln,Bundesliga,27.0,31,0,2,63,61,33,60,54.0,5
+James Maddison,ENG,MFFW,Leicester City,Premier League,25.0,35,0,12,64,88,29,36,54.0,3
+Chris Führich,GER,MFFW,Stuttgart,Bundesliga,24.0,25,0,3,61,68,37,52,54.0,3
+Rodrigo Bentancur,URU,MF,Juventus,Serie A,24.0,19,0,0,65,41,66,43,54.0,5
+Héctor Herrera,MEX,MF,Atlético Madrid,La Liga,32.0,21,0,0,56,42,60,57,54.0,5
+Paul Pogba,FRA,MFFW,Manchester Utd,Premier League,29.0,20,0,1,49,47,58,62,54.0,4
+Dani García,ESP,MF,Athletic Club,La Liga,32.0,32,0,0,83,50,37,46,54.0,4
+Grischa Prömel,GER,MF,Union Berlin,Bundesliga,27.0,29,0,8,68,92,34,22,54.0,2
+Genki Haraguchi,JPN,MF,Union Berlin,Bundesliga,31.0,30,0,2,72,71,25,48,54.0,1
+Alex Iwobi,NGA,MFDF,Everton,Premier League,26.0,28,0,2,71,69,37,37,54.0,2
+Kiernan Dewsbury Hall,ENG,MF,Leicester City,Premier League,23.0,28,0,1,80,61,33,40,54.0,2
+Mikel Merino,ESP,MF,Real Sociedad,La Liga,25.0,34,0,3,84,65,38,30,54.0,4
+Antonio Sánchez,ESP,MFFW,Mallorca,La Liga,25.0,29,0,1,76,63,41,34,54.0,4
+Mathias Jensen,DEN,MF,Brentford,Premier League,26.0,31,0,0,77,50,36,54,54.0,4
+Otávio,BRA,MF,Bordeaux,Ligue 1,28.0,16,0,0,55,38,66,58,54.0,2
+Timothy Weah,USA,MFFW,Lille,Ligue 1,22.0,29,0,3,63,76,27,50,54.0,4
+Kamaldeen Sulemana,GHA,MFFW,Rennes,Ligue 1,20.0,20,0,4,49,76,46,45,54.0,6
+Xeka,POR,MF,Lille,Ligue 1,27.0,23,0,3,67,77,45,26,54.0,5
+Nabil Bentaleb,ALG,MF,Angers,Ligue 1,27.0,18,0,1,67,49,50,51,54.0,5
+Nemanja Radoja,SRB,MF,Levante,La Liga,29.0,19,0,0,71,41,58,47,54.0,4
+Jean-Paul Boëtius,NED,MF,Mainz 05,Bundesliga,28.0,33,0,2,73,69,29,44,54.0,1
+Mahmoud Dahoud,GER,MF,Dortmund,Bundesliga,26.0,22,0,2,59,68,39,49,54.0,5
+Jack Cork,ENG,MF,Burnley,Premier League,32.0,20,0,1,61,67,29,60,54.0,2
+Nicolás Domínguez,ARG,MF,Bologna,Serie A,23.0,28,0,0,88,48,58,24,54.0,3
+Roberto Soriano,ITA,MFFW,Bologna,Serie A,31.0,35,0,0,71,50,51,46,54.0,4
+Mattias Svanberg,SWE,MF,Bologna,Serie A,23.0,36,0,3,88,68,36,25,54.0,5
+Isco,ESP,MFFW,Real Madrid,La Liga,30.0,13,0,1,38,58,59,62,54.0,5
+Toni Kroos,GER,MF,Real Madrid,La Liga,32.0,28,0,1,65,50,88,12,54.0,6
+Milo Pantovi?,SRB,MFFW,Bochum,Bundesliga,25.0,28,1,4,75,80,15,44,54.0,1
+Tomá Sou?ek,CZE,MF,West Ham,Premier League,27.0,35,0,5,85,80,39,8,53.0,3
+Dennis Geiger,GER,MF,Hoffenheim,Bundesliga,23.0,20,0,2,48,71,54,40,53.0,4
+Philippe Coutinho,BRA,MFFW,Aston Villa,Premier League,29.0,19,0,5,48,68,46,49,53.0,4
+Miguel Veloso,POR,MF,Hellas Verona,Serie A,36.0,22,0,0,64,43,39,66,53.0,4
+Kristjan Asllani,ALB,MF,Empoli,Serie A,20.0,23,0,1,75,54,58,24,53.0,4
+Brais Méndez,ESP,MF,Celta Vigo,La Liga,25.0,37,0,4,82,70,45,14,53.0,4
+Raúl Guti,ESP,MF,Elche,La Liga,25.0,31,0,0,74,50,65,24,53.0,3
+Billy Gilmour,SCO,MF,Norwich City,Premier League,20.0,24,0,0,64,45,54,49,53.0,1
+Pierre Lees-Melou,FRA,MF,Norwich City,Premier League,29.0,33,0,1,89,53,52,18,53.0,2
+Rafinha,BRA,MFFW,Real Sociedad,La Liga,29.0,17,0,1,54,59,58,40,53.0,5
+Joe Willock,ENG,MF,Newcastle Utd,Premier League,22.0,29,0,2,81,63,46,21,53.0,5
+Francesco Magnanelli,ITA,MF,Sassuolo,Serie A,37.0,12,0,0,50,35,60,67,53.0,5
+Nolito,ESP,MF,Celta Vigo,La Liga,35.0,32,0,2,73,72,42,26,53.0,5
+Nabil Fekir,FRA,MF,Betis,La Liga,28.0,34,0,6,57,70,56,28,53.0,4
+Oier Sanjurjo,ESP,MF,Osasuna,La Liga,36.0,25,0,1,75,76,24,38,53.0,3
+Atakan Karazor,GER,MF,Stuttgart,Bundesliga,25.0,24,0,0,83,45,59,25,53.0,4
+Roberto Pereyra,ARG,MFFW,Udinese,Serie A,31.0,24,1,3,66,65,61,21,53.0,5
+Tolgay Arslan,GER,MF,Udinese,Serie A,31.0,30,0,1,70,55,50,36,53.0,4
+Kalvin Phillips,ENG,MF,Leeds United,Premier League,26.0,20,0,0,72,41,50,47,52.0,3
+Lucas Tousart,FRA,MF,Hertha BSC,Bundesliga,25.0,30,0,2,85,69,31,22,52.0,2
+Pape Gueye,SEN,MF,Marseille,Ligue 1,23.0,28,0,0,66,48,84,10,52.0,4
+Suat Serdar,GER,MFFW,Hertha BSC,Bundesliga,25.0,30,0,3,70,73,29,34,52.0,1
+Florian Wirtz,GER,MFFW,Leverkusen,Bundesliga,19.0,24,0,7,51,84,25,47,52.0,5
+Lee Jae-sung,KOR,MFFW,Mainz 05,Bundesliga,29.0,27,0,4,66,82,24,37,52.0,2
+Jens Jønsson,DEN,MF,Cádiz,La Liga,29.0,22,0,0,72,43,32,63,52.0,2
+Kevin Stöger,AUT,MFFW,Mainz 05,Bundesliga,28.0,23,0,1,53,61,20,74,52.0,3
+Robin Koch,GER,MFDF,Leeds United,Premier League,25.0,20,0,0,74,41,34,61,52.0,2
+Lukas Rupp,GER,MF,Norwich City,Premier League,31.0,19,0,0,50,41,51,65,52.0,4
+Unai López,ESP,MF,Rayo Vallecano,La Liga,26.0,27,0,0,57,47,64,42,52.0,4
+Ibrahima Diallo,FRA,MF,Southampton,Premier League,23.0,23,0,0,49,44,45,69,52.0,3
+Adil Aouchiche,FRA,MFFW,Saint-Étienne,Ligue 1,19.0,35,0,0,66,50,37,55,52.0,5
+Manuel Prietl,AUT,MF,Arminia,Bundesliga,30.0,26,0,0,63,46,44,53,52.0,1
+Anthony Losilla,FRA,MF,Bochum,Bundesliga,36.0,33,0,2,76,62,44,24,52.0,2
+Mathias Normann,NOR,MF,Norwich City,Premier League,26.0,23,0,1,76,51,21,58,52.0,3
+Grigoris Kastanos,CYP,MFFW,Salernitana,Serie A,24.0,27,0,1,75,54,28,53,52.0,3
+Thomas Müller,GER,MF,Bayern Munich,Bundesliga,32.0,32,0,8,68,85,26,27,52.0,3
+Sergi Roberto,ESP,MFDF,Barcelona,La Liga,30.0,9,0,2,34,63,52,61,52.0,7
+Pedri,ESP,MF,Barcelona,La Liga,19.0,12,0,3,44,66,51,45,52.0,6
+Marko Pjaca,CRO,MFFW,Torino,Serie A,27.0,24,0,3,59,75,33,40,52.0,3
+Isaac Hayden,ENG,MFDF,Newcastle Utd,Premier League,27.0,14,0,1,63,63,37,45,52.0,6
+Mark Noble,ENG,MF,West Ham,Premier League,35.0,11,1,1,47,43,55,65,52.0,4
+Darko Braanac,SRB,MF,Osasuna,La Liga,30.0,35,0,1,80,60,27,40,52.0,4
+Franco Cervi,ARG,MF,Celta Vigo,La Liga,28.0,33,0,4,71,89,34,13,52.0,6
+Maximilian Philipp,GER,MFFW,Wolfsburg,Bundesliga,28.0,22,0,1,60,67,28,53,52.0,4
+Rani Khedira,GER,MF,Union Berlin,Bundesliga,28.0,32,0,0,77,50,22,60,52.0,3
+Youssouf Fofana,FRA,MF,Monaco,Ligue 1,23.0,33,0,0,79,50,34,47,52.0,4
+Eliot Matazo,BEL,MF,Monaco,Ligue 1,20.0,18,0,0,61,40,63,45,52.0,5
+Corentin Tolisso,FRA,MF,Bayern Munich,Bundesliga,27.0,15,0,2,46,66,59,38,52.0,4
+Donny van de Beek,NED,MF,Manchester Utd,Premier League,25.0,8,0,1,53,63,30,58,51.0,5
+Angelo Fulgini,FRA,MFFW,Angers,Ligue 1,25.0,36,0,5,67,74,49,15,51.0,6
+Federico Bernardeschi,ITA,MFFW,Juventus,Serie A,28.0,28,0,1,72,54,40,39,51.0,6
+Jonas Hofmann,GER,MFFW,M'Gladbach,Bundesliga,29.0,26,0,12,59,89,46,11,51.0,5
+Javi Martínez,ESP,MF,Osasuna,La Liga,22.0,26,0,1,65,74,18,48,51.0,5
+Mason Mount,ENG,MFFW,Chelsea,Premier League,23.0,32,1,11,61,87,38,17,51.0,5
+Abdoulaye Doucouré,MLI,MF,Everton,Premier League,29.0,30,0,2,78,62,47,17,51.0,3
+Mads Pedersen,DEN,MFDF,Augsburg,Bundesliga,25.0,29,0,2,78,75,18,32,51.0,2
+Joel Obi,NGA,MFDF,Salernitana,Serie A,31.0,21,0,0,70,42,34,58,51.0,4
+Abdou Harroui,NED,MF,Sassuolo,Serie A,24.0,22,0,0,54,43,70,38,51.0,6
+Santiago Ascacíbar,ARG,MF,Hertha BSC,Bundesliga,25.0,28,0,0,73,48,55,29,51.0,3
+Harry Winks,ENG,MF,Tottenham,Premier League,26.0,19,0,0,66,41,63,33,51.0,4
+Dylan Chambost,FRA,MFFW,Troyes,Ligue 1,24.0,19,0,0,58,41,44,61,51.0,5
+Marvelous Nakamba,ZIM,MF,Aston Villa,Premier League,28.0,16,0,0,60,38,49,58,51.0,5
+Tomás Rincón,VEN,MF,Sampdoria,Serie A,34.0,17,0,0,50,39,56,60,51.0,2
+Antonio Puertas,ESP,MFFW,Granada,La Liga,30.0,33,0,6,73,88,23,20,51.0,3
+Óscar Trejo,ARG,MF,Rayo Vallecano,La Liga,34.0,32,3,3,60,58,39,42,50.0,5
+Kevin-Prince Boateng,GHA,MFFW,Hertha BSC,Bundesliga,35.0,18,0,0,57,40,36,65,50.0,4
+Gerard Gumbau,ESP,MF,Elche,La Liga,27.0,31,0,0,75,50,59,14,50.0,4
+Curtis Jones,ENG,MF,Liverpool,Premier League,21.0,15,0,1,40,46,64,51,50.0,7
+Hianga Mananga Mbock,FRA,MF,Brest,Ligue 1,22.0,14,0,0,49,36,57,59,50.0,4
+Vladimír Darida,CZE,MF,Hertha BSC,Bundesliga,31.0,25,0,2,68,62,26,45,50.0,5
+Rubén Alcaraz,ESP,MF,Cádiz,La Liga,31.0,14,0,2,46,56,53,43,50.0,3
+Iker Muniain,ESP,MF,Athletic Club,La Liga,29.0,35,1,4,58,67,46,30,50.0,5
+Christoph Baumgartner,AUT,MFFW,Hoffenheim,Bundesliga,22.0,29,0,7,69,88,23,19,50.0,5
+Dejan Kulusevski,SWE,MFFW,Tottenham,Premier League,22.0,18,0,5,43,75,47,33,50.0,5
+Ilan Kebbal,ALG,MFFW,Reims,Ligue 1,23.0,31,0,1,58,56,28,56,50.0,5
+Bruno Guimarães,BRA,MF,Lyon,Ligue 1,24.0,20,0,0,59,41,66,33,50.0,5
+Aleksei Miranchuk,RUS,MFFW,Atalanta,Serie A,26.0,19,0,2,45,72,42,43,50.0,6
+Javairô Dilrosun,NED,MFFW,Bordeaux,Ligue 1,23.0,32,0,2,63,63,36,39,50.0,3
+Demarai Gray,ENG,MFFW,Everton,Premier League,25.0,34,0,5,64,77,30,30,50.0,5
+Sebastian Rode,GER,MF,Eint Frankfurt,Bundesliga,31.0,17,0,1,57,66,38,39,50.0,4
+Vincenzo Grifo,ITA,MFFW,Freiburg,Bundesliga,29.0,34,5,9,62,73,33,32,50.0,3
+Wilfred Ndidi,NGA,MFDF,Leicester City,Premier League,25.0,19,0,0,63,41,45,53,50.0,4
+Josuha Guilavogui,FRA,MFDF,Wolfsburg,Bundesliga,31.0,15,0,0,63,37,42,59,50.0,5
+Ronaldo Vieira,GNB,MF,Sampdoria,Serie A,23.0,14,0,0,60,36,51,51,50.0,3
+Augusto Solari,ARG,MFDF,Celta Vigo,La Liga,30.0,26,0,0,85,46,17,54,50.0,7
+Roli Pereira de Sa,FRA,MF,Nantes,Ligue 1,25.0,17,0,0,43,39,52,67,50.0,4
+Miguel Almirón,PAR,MFFW,Newcastle Utd,Premier League,28.0,30,0,1,62,55,48,34,50.0,7
+Fabian Delph,ENG,MF,Everton,Premier League,32.0,11,0,0,56,34,52,59,50.0,4
+Ángel Montoro,ESP,MF,Granada,La Liga,33.0,24,0,1,54,57,36,54,50.0,4
+Lee Kangin,KOR,MFFW,Mallorca,La Liga,21.0,30,0,1,60,54,33,51,50.0,5
+Dani Rodríguez,ESP,MFFW,Mallorca,La Liga,33.0,36,0,3,64,70,33,33,50.0,6
+Saîf-Eddine Khaoui,TUN,MFFW,Clermont Foot,Ligue 1,27.0,23,0,1,50,54,23,71,50.0,5
+Dejan Ljubicic,AUT,MFFW,Köln,Bundesliga,24.0,30,0,3,63,78,26,32,50.0,6
+José Campaña,ESP,MF,Levante,La Liga,28.0,20,0,2,52,68,44,31,49.0,6
+Morten Thorsby,NOR,MF,Sampdoria,Serie A,26.0,35,0,3,87,77,20,11,49.0,4
+Remi Oudin,FRA,MFFW,Bordeaux,Ligue 1,25.0,33,0,4,65,74,14,44,49.0,5
+Tonny Vilhena,NED,MFFW,Espanyol,La Liga,27.0,17,0,1,59,56,18,62,49.0,7
+Enis Bardhi,MKD,MFFW,Levante,La Liga,26.0,30,2,3,63,62,29,43,49.0,5
+Josuha Guilavogui,FRA,MFDF,Bordeaux,Ligue 1,31.0,15,0,1,60,54,45,36,49.0,4
+Carles Pérez,ESP,MFFW,Roma,Serie A,24.0,19,0,1,46,51,54,46,49.0,5
+Leon Goretzka,GER,MF,Bayern Munich,Bundesliga,27.0,19,0,3,47,60,48,40,49.0,5
+Nadiem Amiri,GER,MFFW,Leverkusen,Bundesliga,25.0,13,0,1,48,63,42,42,49.0,6
+Nicolò Rovella,ITA,MF,Genoa,Serie A,20.0,21,0,0,52,42,52,51,49.0,2
+Ludovic Blas,FRA,MFFW,Nantes,Ligue 1,24.0,35,5,10,62,70,51,12,49.0,5
+Farid Boulaya,ALG,MFFW,Metz,Ligue 1,29.0,24,0,4,58,83,14,40,49.0,5
+Jonathan Iglesias,URU,MF,Clermont Foot,Ligue 1,33.0,15,0,0,56,37,64,40,49.0,6
+Carlos Soler,ESP,MF,Valencia,La Liga,25.0,32,7,11,69,83,28,16,49.0,4
+Maximilian Eggestein,GER,MF,Freiburg,Bundesliga,25.0,31,0,1,92,56,33,15,49.0,4
+Dango Ouattara,BFA,MFFW,Lorient,Ligue 1,20.0,25,0,1,61,55,15,64,49.0,5
+Bonke Innocent,NGA,MF,Lorient,Ligue 1,26.0,12,0,0,50,35,59,51,49.0,4
+Iñigo Ruiz de Galarreta,ESP,MF,Mallorca,La Liga,28.0,22,0,0,56,43,47,51,49.0,7
+Kevin Volland,GER,MFFW,Monaco,Ligue 1,29.0,34,1,9,57,87,21,32,49.0,6
+Jurgen Ekkelenkamp,NED,MFFW,Hertha BSC,Bundesliga,22.0,21,0,3,68,81,12,34,49.0,6
+Enock Mwepu,ZAM,MFFW,Brighton,Premier League,24.0,18,0,2,63,61,24,47,49.0,5
+Frank Onyeka,NGA,MF,Brentford,Premier League,24.0,20,0,0,57,41,38,55,48.0,5
+Dwight McNeil,ENG,MF,Burnley,Premier League,22.0,38,0,0,87,50,28,25,48.0,4
+Aaron Lennon,ENG,MF,Burnley,Premier League,35.0,28,0,2,74,82,12,22,48.0,3
+Filippo Bandinelli,ITA,MF,Empoli,Serie A,27.0,35,0,2,74,61,39,16,48.0,5
+Christian Pulisic,USA,MFFW,Chelsea,Premier League,23.0,22,0,6,50,82,35,26,48.0,6
+Mohamed Elyounoussi,NOR,MFFW,Southampton,Premier League,27.0,30,0,4,73,73,17,28,48.0,4
+Bruno Fernandes,POR,MF,Manchester Utd,Premier League,27.0,36,0,10,58,83,37,12,48.0,6
+Téji Savanier,FRA,MF,Montpellier,Ligue 1,30.0,29,3,8,61,69,20,41,48.0,4
+Anton Stach,GER,MF,Mainz 05,Bundesliga,23.0,29,0,1,75,52,25,41,48.0,5
+Gonzalo Villar,ESP,MF,Getafe,La Liga,24.0,10,0,0,46,33,54,57,48.0,3
+Ayoze Pérez,ESP,MFFW,Leicester City,Premier League,28.0,14,0,2,58,65,27,42,48.0,5
+Tom Cleverley,ENG,MF,Watford,Premier League,32.0,28,0,0,82,48,29,31,48.0,2
+Dominik Kohr,GER,MF,Mainz 05,Bundesliga,28.0,22,0,0,63,43,24,60,48.0,4
+Kike Barja,ESP,MFFW,Osasuna,La Liga,25.0,21,0,2,60,69,16,47,48.0,6
+Alessandro Schöpf,AUT,MF,Arminia,Bundesliga,28.0,31,0,1,72,53,36,32,48.0,2
+Daniel Wass,DEN,MF,Valencia,La Liga,32.0,19,0,1,50,46,35,63,48.0,5
+Yacine Adli,FRA,MFFW,Bordeaux,Ligue 1,21.0,36,0,1,69,52,35,34,48.0,6
+Paul Lasne,FRA,MF,Brest,Ligue 1,33.0,15,0,0,55,37,54,47,48.0,5
+Anthony Gordon,ENG,MFFW,Everton,Premier League,21.0,35,0,4,77,71,15,28,48.0,6
+Rolando Mandragora,ITA,MF,Torino,Serie A,24.0,21,0,0,63,42,54,32,48.0,4
+Yvan Neyou,CMR,MF,Saint-Étienne,Ligue 1,25.0,16,0,0,56,38,48,51,48.0,6
+Fidel,ESP,MFFW,Elche,La Liga,32.0,33,1,5,58,91,30,12,48.0,5
+Samuel Chukwueze,NGA,MF,Villarreal,La Liga,23.0,27,0,3,53,76,21,41,48.0,9
+Mamadou Coulibaly,SEN,MF,Salernitana,Serie A,23.0,12,0,2,41,63,28,59,48.0,5
+Arne Maier,GER,MF,Augsburg,Bundesliga,23.0,29,0,1,59,57,28,43,47.0,3
+Nedim Bajrami,ALB,MFFW,Empoli,Serie A,23.0,35,3,6,58,70,29,30,47.0,6
+Isma Ruiz,ESP,MF,Granada,La Liga,21.0,8,0,0,53,31,43,60,47.0,5
+Juraj Kucka,SVK,MF,Watford,Premier League,35.0,26,0,1,80,49,17,42,47.0,3
+Luca Fiordilino,ITA,MF,Venezia,Serie A,25.0,15,0,0,62,37,55,33,47.0,7
+Timothy Tillman,GER,MF,Greuther Fürth,Bundesliga,23.0,29,0,1,73,54,27,34,47.0,2
+Andros Townsend,ENG,MF,Everton,Premier League,30.0,21,1,3,62,63,22,40,47.0,7
+Adam Forshaw,ENG,MF,Leeds United,Premier League,30.0,22,0,0,51,43,57,38,47.0,4
+Kevin Agudelo,COL,MFFW,Spezia,Serie A,23.0,23,0,3,54,72,20,41,47.0,4
+Viktor Kovalenko,UKR,MF,Spezia,Serie A,26.0,26,0,1,72,73,29,13,47.0,6
+Mehdi Bourabia,MAR,MF,Spezia,Serie A,30.0,8,0,1,54,62,33,38,47.0,5
+Mato Jajalo,BIH,MF,Udinese,Serie A,34.0,22,0,0,53,43,37,56,47.0,6
+Nicolás Serrano,ESP,MF,Athletic Club,La Liga,19.0,14,0,1,55,57,24,51,47.0,6
+Tete Morente,ESP,MFFW,Elche,La Liga,25.0,32,0,3,65,79,22,23,47.0,6
+Nampalys Mendy,SEN,MF,Leicester City,Premier League,29.0,14,0,0,55,36,67,29,47.0,6
+Dani Olmo,ESP,MF,RB Leipzig,Bundesliga,24.0,19,0,3,50,68,33,37,47.0,7
+Christoph Kramer,GER,MF,M'Gladbach,Bundesliga,31.0,18,0,0,69,40,34,46,47.0,6
+Roberto Torres,ESP,MFFW,Osasuna,La Liga,33.0,28,2,2,57,60,15,57,47.0,7
+Adrien Silva,POR,MF,Sampdoria,Serie A,33.0,17,0,0,63,39,54,33,47.0,5
+Kristijan Jaki?,CRO,MF,Eint Frankfurt,Bundesliga,25.0,26,0,1,76,51,29,32,47.0,5
+Jakob Sørensen,DEN,MFDF,Norwich City,Premier League,24.0,10,0,0,54,33,41,61,47.0,5
+Óscar Melendo,ESP,MFFW,Espanyol,La Liga,24.0,21,0,0,50,42,68,26,46.0,8
+Álex Collado,ESP,MFFW,Granada,La Liga,23.0,17,0,2,59,60,27,38,46.0,6
+Jeff Hendrick,IRL,MF,Newcastle Utd,Premier League,30.0,3,0,1,28,55,47,54,46.0,8
+R?zvan Marin,ROU,MF,Cagliari,Serie A,26.0,36,0,0,66,50,49,21,46.0,3
+Oghenekaro Etebo,NGA,MF,Watford,Premier League,26.0,9,0,0,42,32,57,52,46.0,4
+Junior Dina Ebimbe,FRA,MF,Paris S-G,Ligue 1,21.0,10,0,0,51,33,56,46,46.0,7
+Angel Gomes,ENG,MFFW,Lille,Ligue 1,21.0,24,0,1,50,68,42,25,46.0,6
+Edon Zhegrova,KVX,MFFW,Lille,Ligue 1,23.0,13,0,2,45,60,32,48,46.0,7
+Abdul Majeed Waris,GHA,MFFW,Strasbourg,Ligue 1,30.0,15,0,2,40,72,22,50,46.0,6
+Jon Guridi,ESP,MF,Real Sociedad,La Liga,27.0,8,0,1,46,62,23,53,46.0,6
+Dani Ceballos,ESP,MF,Real Madrid,La Liga,25.0,11,0,0,56,34,60,34,46.0,7
+Enzo Le Fée,FRA,MFFW,Lorient,Ligue 1,22.0,36,0,1,61,53,49,20,46.0,6
+Tanguy Ndombele,FRA,MF,Lyon,Ligue 1,25.0,11,0,0,49,34,58,41,46.0,6
+Darwin Machís,VEN,MFFW,Granada,La Liga,29.0,25,0,4,55,71,23,37,46.0,7
+Steven Alzate,COL,MF,Brighton,Premier League,23.0,9,0,0,42,32,53,58,46.0,6
+Carles Aleñá,ESP,MF,Getafe,La Liga,24.0,33,0,1,62,52,52,16,46.0,4
+Francesco Di Tacchio,ITA,MF,Salernitana,Serie A,32.0,18,0,0,69,40,43,32,46.0,6
+Tiemoué Bakayoko,FRA,MF,Milan,Serie A,27.0,14,0,0,49,36,57,40,46.0,6
+Krepin Diatta,SEN,MFDF,Monaco,Ligue 1,23.0,8,0,1,34,57,39,52,46.0,7
+Manu García,ESP,MF,Alavés,La Liga,24.0,24,0,0,53,45,38,50,46.0,3
+Florentino Luís,POR,MF,Getafe,La Liga,22.0,22,0,0,56,43,46,38,46.0,5
+Roland Sallai,HUN,MFFW,Freiburg,Bundesliga,25.0,31,0,4,59,80,20,26,46.0,5
+Noah Weißhaupt,GER,MFFW,Freiburg,Bundesliga,20.0,10,0,0,38,33,52,62,46.0,6
+Yannick Cahuzac,FRA,MF,Lens,Ligue 1,37.0,17,0,0,60,39,59,25,46.0,4
+András Schäfer,HUN,MF,Union Berlin,Bundesliga,23.0,8,0,1,47,55,23,55,45.0,4
+Simone Trimboli,ITA,MF,Sampdoria,Serie A,20.0,5,0,0,49,29,44,58,45.0,6
+Nico Williams,ESP,MF,Athletic Club,La Liga,19.0,34,0,0,74,50,19,36,45.0,7
+André Hahn,GER,MFFW,Augsburg,Bundesliga,31.0,32,0,5,82,78,10,10,45.0,4
+Tomás Alarcón,CHI,MF,Cádiz,La Liga,23.0,23,0,0,73,44,34,28,45.0,4
+Éderson,BRA,MF,Salernitana,Serie A,22.0,15,0,2,54,55,43,28,45.0,7
+Franck Honorat,FRA,MFFW,Brest,Ligue 1,25.0,34,0,11,62,88,17,13,45.0,6
+László Bénes,SVK,MF,M'Gladbach,Bundesliga,24.0,13,0,0,60,36,24,59,45.0,7
+André Gomes,POR,MF,Everton,Premier League,28.0,14,0,0,54,36,28,63,45.0,8
+Masaya Okugawa,JPN,MFFW,Arminia,Bundesliga,26.0,33,0,8,64,93,12,11,45.0,3
+Ashley Westwood,ENG,MF,Burnley,Premier League,32.0,27,0,0,73,47,31,28,45.0,5
+Fransérgio,BRA,MF,Bordeaux,Ligue 1,31.0,26,0,0,83,46,26,24,45.0,7
+Håvard Nielsen,NOR,MFFW,Greuther Fürth,Bundesliga,28.0,26,0,2,58,64,20,37,45.0,4
+Oriol Busquets,ESP,MF,Clermont Foot,Ligue 1,23.0,9,0,0,56,32,53,40,45.0,7
+Adam Ounas,ALG,MFFW,Napoli,Serie A,25.0,15,0,0,40,37,38,66,45.0,6
+Gonzalo Escalante,ARG,MF,Alavés,La Liga,29.0,17,0,5,56,74,12,38,45.0,4
+Paul Seguin,GER,MF,Greuther Fürth,Bundesliga,27.0,27,0,0,68,47,40,26,45.0,5
+Kenny McLean,SCO,MF,Norwich City,Premier League,30.0,31,0,1,72,54,29,25,45.0,6
+Julian Green,USA,MF,Greuther Fürth,Bundesliga,26.0,24,0,0,60,45,43,32,45.0,3
+Tomás Pina Isla,ESP,MF,Alavés,La Liga,34.0,29,0,0,70,49,38,24,45.0,5
+Tanguy Ndombele,FRA,MF,Tottenham,Premier League,25.0,9,0,1,40,52,49,39,45.0,6
+Dan Gosling,ENG,MF,Watford,Premier League,32.0,4,0,1,29,56,38,57,45.0,5
+Luka Milivojevi?,SRB,MF,Crystal Palace,Premier League,31.0,15,0,0,45,37,38,56,44.0,7
+Hernani,BRA,MFFW,Genoa,Serie A,28.0,18,0,0,69,40,21,47,44.0,3
+Saúl Ñíguez,ESP,MFDF,Chelsea,Premier League,27.0,10,0,0,55,33,49,37,44.0,8
+Justin Kluivert,NED,MF,Nice,Ligue 1,23.0,27,0,4,59,79,17,22,44.0,6
+Will Hughes,ENG,MF,Crystal Palace,Premier League,27.0,16,0,0,65,38,44,30,44.0,6
+Eberechi Eze,ENG,MFFW,Crystal Palace,Premier League,23.0,13,0,1,44,60,28,42,44.0,5
+Ross Barkley,ENG,MF,Chelsea,Premier League,28.0,6,0,1,30,49,40,56,44.0,7
+Tom Davies,ENG,MF,Everton,Premier League,23.0,6,0,1,44,56,27,51,44.0,9
+Moisés Caicedo,ECU,MF,Brighton,Premier League,20.0,8,0,1,50,47,30,50,44.0,7
+Tomás Rincón,VEN,MFFW,Torino,Serie A,34.0,7,0,0,47,31,37,60,44.0,6
+Rodrigo,ESP,MFFW,Leeds United,Premier League,31.0,31,1,6,58,79,32,8,44.0,5
+Stuart Armstrong,SCO,MF,Southampton,Premier League,30.0,25,0,2,54,60,39,25,44.0,5
+Patrick Berg,NOR,MF,Lens,Ligue 1,24.0,14,0,0,54,36,44,43,44.0,5
+Kristoffer Askildsen,NOR,MF,Sampdoria,Serie A,21.0,19,0,0,74,41,13,49,44.0,7
+Giulio Maggiore,ITA,MF,Spezia,Serie A,24.0,35,0,2,73,62,31,10,44.0,7
+Abdelhamid Sabiri,GER,MFFW,Sampdoria,Serie A,25.0,14,0,3,43,64,29,40,44.0,8
+Julian Baumgartlinger,AUT,MF,Leverkusen,Bundesliga,34.0,6,0,0,33,30,52,60,44.0,7
+Noah Joel Sarenren Bazee,NGA,MFFW,Augsburg,Bundesliga,25.0,14,0,1,63,64,17,31,44.0,5
+Carlos Gruezo,ECU,MF,Augsburg,Bundesliga,27.0,17,0,0,57,39,46,35,44.0,6
+Emil Bohinen,NOR,MF,Salernitana,Serie A,23.0,11,0,0,53,34,34,53,44.0,8
+Florian Kainz,AUT,MFFW,Köln,Bundesliga,29.0,32,0,4,69,76,12,18,44.0,7
+Mattia Aramu,ITA,MFFW,Venezia,Serie A,27.0,32,3,7,67,76,18,16,44.0,8
+Jan Morávek,CZE,MF,Augsburg,Bundesliga,32.0,17,0,0,63,39,17,56,44.0,7
+Philipp Klement,GER,MFFW,Stuttgart,Bundesliga,29.0,6,0,1,40,54,32,49,44.0,5
+Kévin N'Doram,FRA,MF,Metz,Ligue 1,26.0,19,0,0,62,41,49,22,44.0,6
+Marcel Sabitzer,AUT,MFDF,Bayern Munich,Bundesliga,28.0,25,0,1,63,57,48,8,44.0,6
+Samuele Ricci,ITA,MF,Torino,Serie A,20.0,12,0,0,43,35,59,37,44.0,5
+Sérgio Oliveira,POR,MF,Roma,Serie A,29.0,14,1,2,45,54,41,38,44.0,6
+Lorenzo Pellegrini,ITA,MFFW,Roma,Serie A,25.0,28,2,9,60,75,27,14,44.0,7
+Giovani Lo Celso,ARG,MFFW,Tottenham,Premier League,26.0,9,0,0,50,32,38,58,44.0,7
+Danylo Ihnatenko,UKR,MF,Bordeaux,Ligue 1,25.0,11,0,0,47,34,38,59,44.0,8
+Kamory Doumbia,FRA,MFFW,Reims,Ligue 1,19.0,8,0,2,52,62,33,31,44.0,6
+Dor Peretz,ISR,MF,Venezia,Serie A,27.0,18,0,0,66,40,33,35,44.0,9
+Filip ?uri?i?,SRB,MFFW,Sassuolo,Serie A,30.0,12,0,2,42,56,45,29,43.0,7
+Nathan Redmond,ENG,MFFW,Southampton,Premier League,28.0,27,0,1,63,52,17,40,43.0,6
+Nicholas Gioacchini,USA,MFFW,Montpellier,Ligue 1,21.0,28,0,0,60,48,21,42,43.0,5
+Xaver Schlager,AUT,MF,Wolfsburg,Bundesliga,24.0,14,0,0,54,36,29,54,43.0,6
+Philippe Coutinho,BRA,MFFW,Barcelona,La Liga,29.0,12,1,2,39,49,37,48,43.0,8
+Mark Uth,GER,MFFW,Köln,Bundesliga,30.0,30,0,5,62,74,23,14,43.0,8
+Antonio Candreva,ITA,MFFW,Sampdoria,Serie A,35.0,36,1,7,61,76,21,14,43.0,9
+Jean-Daniel Akpa-Akpro,CIV,MF,Lazio,Serie A,29.0,10,0,0,52,33,39,47,43.0,6
+Monchu,ESP,MF,Granada,La Liga,22.0,14,0,0,58,36,44,33,43.0,8
+Mehdi Zerkane,ALG,MFDF,Bordeaux,Ligue 1,22.0,6,0,0,50,30,54,39,43.0,9
+Calvin Stengs,NED,MF,Nice,Ligue 1,23.0,24,0,1,51,54,24,43,43.0,7
+Martin Hongla,CMR,MF,Hellas Verona,Serie A,24.0,18,0,1,56,59,31,26,43.0,5
+Facundo Pellistri,URU,MFFW,Alavés,La Liga,20.0,21,0,0,71,42,19,36,42.0,6
+Pere Pons,ESP,MF,Alavés,La Liga,29.0,27,0,1,59,61,18,28,42.0,7
+Erick Pulgar,CHI,MF,Fiorentina,Serie A,28.0,6,0,0,39,30,44,57,42.0,7
+Youcef Belaïli,ALG,MFFW,Brest,Ligue 1,30.0,13,0,3,42,66,20,40,42.0,7
+Alberto Perea,ESP,MF,Cádiz,La Liga,31.0,18,0,0,50,40,28,50,42.0,5
+Donny van de Beek,NED,MF,Everton,Premier League,25.0,7,0,1,47,57,32,30,42.0,10
+Fabian Kunze,GER,MF,Arminia,Bundesliga,23.0,22,0,0,51,43,27,46,42.0,4
+Josh Dasilva,ENG,MFFW,Brentford,Premier League,23.0,9,0,0,49,32,31,56,42.0,6
+Yusuf Yazýcý,TUR,MFFW,Lille,Ligue 1,25.0,15,0,1,41,55,28,44,42.0,9
+Jeremy Dudziak,TUN,MFFW,Greuther Fürth,Bundesliga,26.0,22,0,2,49,73,12,32,42.0,6
+Boubakary Soumaré,FRA,MF,Leicester City,Premier League,23.0,19,0,0,52,41,37,36,42.0,7
+Jens Cajuste,SWE,MF,Reims,Ligue 1,22.0,8,1,2,50,52,19,46,42.0,7
+Nikola Vuk?evi?,MNE,MF,Levante,La Liga,30.0,6,0,0,32,30,48,58,42.0,7
+Federico Chiesa,ITA,MFFW,Juventus,Serie A,24.0,14,0,2,40,53,26,50,42.0,7
+Levin Öztunalý,GER,MF,Union Berlin,Bundesliga,26.0,18,0,0,45,40,25,58,42.0,5
+Jonathan Ikone,FRA,MFFW,Lille,Ligue 1,24.0,18,0,1,45,47,39,39,42.0,8
+Leonardo Capezzi,ITA,MF,Salernitana,Serie A,27.0,5,0,0,49,29,40,49,42.0,9
+Quentin Boisgard,FRA,MFFW,Lorient,Ligue 1,25.0,25,0,1,52,56,21,39,42.0,7
+Eduardo Camavinga,FRA,MF,Rennes,Ligue 1,19.0,4,0,0,43,28,38,57,42.0,7
+Leandro Barreiro Martins,LUX,MF,Mainz 05,Bundesliga,22.0,31,0,1,85,54,25,6,42.0,6
+Matteo Cancellieri,ITA,MFDF,Hellas Verona,Serie A,20.0,12,0,1,38,68,24,38,42.0,6
+Blanco,ESP,MF,Real Madrid,La Liga,21.0,1,0,0,42,26,47,51,42.0,8
+Liam Henderson,SCO,MF,Empoli,Serie A,26.0,38,0,2,75,60,21,8,41.0,7
+Edouard Michut,FRA,MF,Paris S-G,Ligue 1,19.0,5,0,0,48,29,57,30,41.0,8
+Beñat Turrientes,ESP,MF,Real Sociedad,La Liga,20.0,8,0,0,33,31,43,58,41.0,8
+Warren Tchimbembé,CGO,MF,Metz,Ligue 1,24.0,9,0,0,51,32,49,32,41.0,7
+Salvi,ESP,MFFW,Cádiz,La Liga,31.0,23,0,2,58,65,11,29,41.0,6
+Gaël Kakuta,COD,MFFW,Lens,Ligue 1,30.0,29,1,3,58,63,19,23,41.0,6
+Stefano Sensi,ITA,MF,Inter,Serie A,26.0,9,0,0,34,32,43,55,41.0,6
+Asier Illarramendi,ESP,MF,Real Sociedad,La Liga,32.0,8,0,0,43,31,54,36,41.0,7
+Aimen Moueffek,FRA,MF,Saint-Étienne,Ligue 1,21.0,14,0,0,39,36,56,33,41.0,7
+Edo Kayembe,COD,MF,Watford,Premier League,23.0,13,0,0,43,36,56,28,41.0,6
+Daan Heymans,BEL,MFFW,Venezia,Serie A,22.0,7,0,0,52,31,31,51,41.0,10
+Óscar Rodríguez Arnaiz,ESP,MFFW,Getafe,La Liga,23.0,18,0,0,48,40,27,48,41.0,6
+Cristian Volpato,AUS,MFFW,Roma,Serie A,18.0,3,0,1,28,55,25,54,40.0,8
+Ruben Vargas,SUI,MFFW,Augsburg,Bundesliga,23.0,29,0,1,57,55,27,20,40.0,8
+Imran Louza,MAR,MF,Watford,Premier League,23.0,20,0,0,65,41,29,27,40.0,7
+Isaac Lihadji,FRA,MFFW,Lille,Ligue 1,20.0,13,0,1,38,68,17,37,40.0,10
+Gio Reyna,USA,MF,Dortmund,Bundesliga,19.0,10,0,2,36,59,26,41,40.0,6
+Morgan Sanson,FRA,MF,Aston Villa,Premier League,27.0,10,0,0,39,33,30,60,40.0,6
+Álex Berenguer,ESP,MFFW,Athletic Club,La Liga,26.0,34,0,3,68,68,12,12,40.0,8
+Brandon Domingues,FRA,MFFW,Troyes,Ligue 1,21.0,11,0,1,38,65,29,28,40.0,6
+José Mari,ESP,MF,Cádiz,La Liga,34.0,11,0,0,46,34,39,41,40.0,7
+Jeff Reine-Adélaïde,FRA,MF,Lyon,Ligue 1,24.0,10,0,0,38,33,44,44,40.0,7
+Matondo-Merveille Papela,GER,MF,Mainz 05,Bundesliga,21.0,5,0,0,33,29,40,58,40.0,7
+Aimar Sher,SWE,MF,Spezia,Serie A,19.0,1,0,0,28,26,52,52,40.0,8
+Assane Dioussé,SEN,MF,Saint-Étienne,Ligue 1,24.0,4,0,0,29,28,47,57,40.0,8
+Juan Mata,ESP,MF,Manchester Utd,Premier League,34.0,7,0,0,31,31,42,57,40.0,7
+Marc Roca,ESP,MF,Bayern Munich,Bundesliga,25.0,9,0,0,36,32,47,46,40.0,7
+Gabriel Veiga,ESP,MF,Celta Vigo,La Liga,20.0,7,0,0,35,31,34,58,40.0,8
+Kevin Strootman,NED,MF,Cagliari,Serie A,32.0,10,0,0,52,33,39,35,40.0,4
+Jakub Moder,POL,MFFW,Brighton,Premier League,23.0,28,0,0,65,48,26,19,40.0,8
+Fabio Depaoli,ITA,MFDF,Sampdoria,Serie A,25.0,6,0,0,48,30,32,51,40.0,10
+Romain Faivre,FRA,MF,Brest,Ligue 1,23.0,21,5,7,46,61,32,23,40.0,8
+Rafiki Said Ahamada,FRA,MFFW,Brest,Ligue 1,22.0,14,0,0,39,36,49,36,40.0,9
+Paul Akouokou,CIV,MF,Betis,La Liga,24.0,8,0,0,34,31,48,49,40.0,5
+Patrick Osterhage,GER,MF,Bochum,Bundesliga,22.0,13,0,0,45,36,30,48,40.0,4
+Eduard Löwen,GER,MF,Bochum,Bundesliga,25.0,26,1,2,62,55,15,28,40.0,3
+Lewis Brunt,ENG,MF,Leicester City,Premier League,21.0,1,0,0,28,26,52,52,40.0,8
+Valon Behrami,SUI,MF,Genoa,Serie A,37.0,10,0,0,46,33,18,63,40.0,4
+Matías Vecino,URU,MF,Inter,Serie A,30.0,17,0,1,58,69,31,4,40.0,7
+David Timor,ESP,MF,Getafe,La Liga,32.0,7,0,0,49,31,32,50,40.0,7
+Alberto Soro,ESP,MFFW,Granada,La Liga,23.0,16,0,0,61,38,13,50,40.0,9
+Stefano Sensi,ITA,MF,Sampdoria,Serie A,26.0,11,0,1,40,50,41,26,39.0,11
+Franck Ribéry,FRA,MFFW,Salernitana,Serie A,39.0,23,0,0,50,44,42,20,39.0,10
+Iván Alejo,ESP,MFFW,Cádiz,La Liga,27.0,20,0,2,47,73,10,26,39.0,8
+Aaron Ramsey,WAL,MF,Juventus,Serie A,31.0,3,0,0,28,27,45,55,39.0,8
+Pedro Ortiz,ESP,MF,Sevilla,La Liga,21.0,1,0,0,25,26,52,52,39.0,8
+Gerard Yepes,ESP,MFDF,Sampdoria,Serie A,19.0,4,0,0,32,28,39,57,39.0,12
+Jonathan Bamba,FRA,MFFW,Lille,Ligue 1,26.0,31,0,1,61,52,34,8,39.0,11
+Rubén Rochina,ESP,MFFW,Granada,La Liga,31.0,15,0,1,47,50,19,40,39.0,11
+Kevin Möhwald,GER,MF,Union Berlin,Bundesliga,28.0,16,0,0,42,38,40,35,39.0,6
+Jorge de Frutos,ESP,MFFW,Levante,La Liga,25.0,25,0,4,53,67,20,16,39.0,8
+Njego Petrovi?,SRB,MF,Granada,La Liga,22.0,15,0,0,57,37,32,31,39.0,10
+Denis Zakaria,SUI,MF,Juventus,Serie A,25.0,9,0,1,52,48,32,25,39.0,9
+Roberto Navarro,ESP,MFFW,Real Sociedad,La Liga,20.0,6,0,0,31,30,38,58,39.0,9
+Sebastian Vasiliadis,GRE,MF,Arminia,Bundesliga,24.0,19,0,0,55,41,15,44,39.0,5
+Kingsley Michael,NGA,MF,Bologna,Serie A,22.0,2,0,0,44,26,34,53,39.0,6
+Michel Aebischer,SUI,MF,Bologna,Serie A,25.0,12,0,0,37,35,54,27,38.0,7
+Nahitan Nández,URU,MFDF,Cagliari,Serie A,26.0,21,0,0,50,42,20,38,38.0,5
+Alvaro Sanz,ESP,MF,Barcelona,La Liga,21.0,2,0,0,26,26,46,53,38.0,9
+Hassane Kamara,CIV,MFDF,Nice,Ligue 1,28.0,11,0,0,50,34,33,37,38.0,9
+Dale Stephens,ENG,MF,Burnley,Premier League,32.0,3,0,0,44,27,26,55,38.0,7
+Fede San Emeterio,ESP,MF,Cádiz,La Liga,25.0,12,0,0,37,35,48,34,38.0,9
+Abdoulaye Touré,FRA,MF,Genoa,Serie A,28.0,8,0,0,43,31,27,52,38.0,5
+Jóhann Berg Gu?mundsson,ISL,MF,Burnley,Premier League,31.0,18,0,0,53,40,10,51,38.0,6
+Mikkel Damsgaard,DEN,MFFW,Sampdoria,Serie A,21.0,11,0,0,45,34,21,50,38.0,13
+Romain Del Castillo,FRA,MFFW,Brest,Ligue 1,26.0,19,0,0,47,41,20,46,38.0,10
+Connor Noß,IRL,MF,M'Gladbach,Bundesliga,21.0,3,0,0,45,27,25,55,38.0,8
+Elvis Rexhbeçaj,GER,MF,Bochum,Bundesliga,24.0,32,0,0,80,50,14,10,38.0,5
+Julien Faussurier,FRA,MFDF,Brest,Ligue 1,35.0,16,0,0,54,38,32,29,38.0,11
+Ebrima Darboe,GAM,MF,Roma,Serie A,20.0,1,0,0,25,26,48,52,38.0,9
+Issouf Sissokho,MLI,MF,Bordeaux,Ligue 1,20.0,7,0,0,40,31,51,31,38.0,10
+Mouhamadou Diarra,SEN,MF,Strasbourg,Ligue 1,18.0,4,0,0,29,28,45,52,38.0,7
+Aleix Febas,ESP,MF,Mallorca,La Liga,26.0,4,0,0,29,28,42,52,38.0,8
+Alexis Claude-Maurice,FRA,MF,Nice,Ligue 1,23.0,10,0,0,39,33,48,31,38.0,8
+Mohamed Elneny,EGY,MF,Arsenal,Premier League,29.0,14,0,0,43,36,69,3,38.0,6
+Nicolas Haas,SUI,MF,Empoli,Serie A,26.0,16,0,0,60,38,33,22,38.0,8
+Tobias Strobl,GER,MFDF,Augsburg,Bundesliga,32.0,5,0,0,46,29,21,58,38.0,9
+Pablo Martínez,ESP,MF,Levante,La Liga,24.0,13,0,0,55,36,18,42,38.0,9
+Manu Vallejo,ESP,MFFW,Alavés,La Liga,25.0,11,0,1,37,63,30,21,38.0,8
+Luca Waldschmidt,GER,MFFW,Wolfsburg,Bundesliga,26.0,14,0,1,39,52,33,28,38.0,7
+Mickaël Cuisance,FRA,MF,Venezia,Serie A,22.0,13,0,0,41,36,31,43,38.0,11
+Naouirou Ahamada,FRA,MF,Stuttgart,Bundesliga,20.0,3,0,0,30,27,40,55,38.0,6
+Tyler Roberts,WAL,MFFW,Leeds United,Premier League,23.0,23,0,1,53,50,23,26,38.0,6
+Orbelín Pineda,MEX,MFFW,Celta Vigo,La Liga,26.0,7,0,0,31,31,46,39,37.0,9
+Zidan Sertdemir,DEN,MFFW,Leverkusen,Bundesliga,17.0,3,0,0,28,27,39,55,37.0,8
+Carney Chukwuemeka,ENG,MFFW,Aston Villa,Premier League,18.0,12,0,0,37,35,42,33,37.0,7
+Yanis Guermouche,FRA,MFFW,Montpellier,Ligue 1,21.0,3,0,0,28,27,38,55,37.0,6
+Pablo Galdames Millán,CHI,MF,Genoa,Serie A,25.0,19,0,0,60,41,24,22,37.0,6
+Habib Keita,MLI,MFFW,Lyon,Ligue 1,20.0,3,0,0,28,27,38,55,37.0,8
+Mattia Zaccagni,ITA,MFFW,Hellas Verona,Serie A,26.0,2,1,2,27,51,30,40,37.0,7
+Tyler Morton,ENG,MF,Liverpool,Premier League,19.0,2,0,0,26,26,42,53,37.0,8
+Marcel Sabitzer,AUT,MFFW,RB Leipzig,Bundesliga,28.0,2,0,0,29,26,40,53,37.0,8
+Daniel Maldini,ITA,MF,Milan,Serie A,20.0,8,0,1,36,62,9,40,37.0,7
+Fredrik Jensen,FIN,MFFW,Augsburg,Bundesliga,24.0,12,0,0,49,35,7,56,37.0,10
+Hélder Costa,ANG,MFFW,Valencia,La Liga,28.0,22,0,0,58,43,8,39,37.0,6
+Sambou Sissoko,FRA,MFDF,Reims,Ligue 1,23.0,8,0,0,33,31,21,61,36.0,9
+Andy Diouf,FRA,MF,Rennes,Ligue 1,20.0,5,0,0,33,29,22,58,36.0,8
+Valon Berisha,KVX,MFFW,Reims,Ligue 1,29.0,13,0,0,40,36,12,57,36.0,8
+Myrto Uzuni,ALB,MFFW,Granada,La Liga,26.0,15,0,1,52,58,12,22,36.0,14
+Dele Alli,ENG,MF,Everton,Premier League,26.0,11,0,0,56,34,23,31,36.0,11
+Nils Seufert,GER,MF,Greuther Fürth,Bundesliga,25.0,4,0,0,46,28,15,57,36.0,7
+Gonzalo Castro,GER,MFFW,Arminia,Bundesliga,34.0,12,0,1,38,61,15,29,36.0,6
+Christian Oliva,URU,MF,Cagliari,Serie A,25.0,4,0,0,31,28,26,57,36.0,6
+Marko Rog,CRO,MF,Cagliari,Serie A,26.0,8,0,0,42,31,38,33,36.0,7
+Peter González,DOM,MFDF,Real Madrid,La Liga,19.0,3,0,0,28,27,41,48,36.0,9
+Ilaix Moriba,GUI,MF,RB Leipzig,Bundesliga,19.0,2,0,0,29,26,34,53,36.0,9
+Waniss Taibi,FRA,MFDF,Angers,Ligue 1,20.0,7,0,0,34,31,30,47,36.0,7
+Renaud Emond,BEL,MFFW,Nantes,Ligue 1,30.0,6,0,0,48,30,10,58,36.0,6
+Lamine Gueye,SEN,MFFW,Metz,Ligue 1,24.0,14,0,0,45,36,17,45,36.0,8
+Gonzalo Escalante,ARG,MF,Lazio,Serie A,29.0,1,0,0,42,26,22,52,36.0,7
+Valerio Verre,ITA,MFFW,Sampdoria,Serie A,28.0,11,0,0,38,34,15,55,36.0,15
+Baptiste Mouazan,FRA,MF,Lorient,Ligue 1,20.0,3,0,0,30,27,32,54,36.0,8
+Gori,ESP,MF,Espanyol,La Liga,20.0,1,0,0,28,26,36,52,36.0,9
+Dani Raba,ESP,MFFW,Granada,La Liga,26.0,2,0,0,29,26,37,53,36.0,13
+Tim Iroegbunam,ENG,MF,Aston Villa,Premier League,18.0,3,0,0,28,27,34,55,36.0,8
+Dele Alli,ENG,MFFW,Tottenham,Premier League,26.0,10,1,1,56,39,25,22,36.0,8
+Martín,ESP,MF,Cádiz,La Liga,23.0,6,0,0,31,30,26,58,36.0,11
+Riccardo Ciervo,ITA,MFDF,Sampdoria,Serie A,20.0,10,0,0,35,33,19,55,36.0,14
+Robert Tesche,GER,MF,Bochum,Bundesliga,35.0,11,0,0,59,34,50,3,36.0,6
+Yan Brice Eteki,CMR,MF,Granada,La Liga,24.0,12,0,0,58,35,24,29,36.0,12
+Santiago Arzamendia,PAR,MFDF,Cádiz,La Liga,24.0,14,0,1,42,67,11,25,36.0,10
+Charles Boli,FRA,MF,Lens,Ligue 1,23.0,4,0,0,29,28,30,57,36.0,7
+Nicolas Viola,ITA,MF,Bologna,Serie A,32.0,6,0,0,47,30,14,52,36.0,8
+Javier Pastore,ARG,MFFW,Elche,La Liga,32.0,13,0,0,45,36,31,30,36.0,7
+Aurélien Nguiamba,FRA,MF,Spezia,Serie A,23.0,3,0,0,44,27,20,54,36.0,9
+Sidney Raebiger,GER,MF,RB Leipzig,Bundesliga,17.0,1,0,0,25,26,36,52,35.0,10
+Evan Ferguson,IRL,MF,Brighton,Premier League,17.0,1,0,0,25,26,36,52,35.0,9
+Toma Bai?,CRO,MF,Bordeaux,Ligue 1,25.0,3,0,0,40,27,27,46,35.0,11
+Moussa Djenepo,MLI,MF,Southampton,Premier League,23.0,12,0,0,47,35,23,36,35.0,7
+Ben Lhassine Kone,CIV,MF,Torino,Serie A,22.0,1,0,0,25,26,37,52,35.0,8
+Ken Sema,SWE,MFFW,Watford,Premier League,28.0,18,0,0,50,40,11,40,35.0,8
+Vitolo,ESP,MFFW,Getafe,La Liga,32.0,7,0,0,31,31,24,54,35.0,8
+Daniele Baselli,ITA,MFFW,Torino,Serie A,30.0,6,0,0,31,30,21,58,35.0,7
+Xavier Chavalerin,FRA,MFDF,Reims,Ligue 1,31.0,3,0,0,28,27,32,53,35.0,10
+Aymen Barkok,MAR,MFFW,Eint Frankfurt,Bundesliga,24.0,5,0,0,46,29,16,49,35.0,6
+Oussama Idrissi,MAR,MF,Cádiz,La Liga,26.0,12,0,1,38,42,25,36,35.0,12
+Mohamed Achi,FRA,MF,Nantes,Ligue 1,20.0,1,0,0,25,26,36,52,35.0,7
+Diego Farias,BRA,MFFW,Cagliari,Serie A,32.0,4,0,0,29,28,28,56,35.0,8
+Bilal Brahimi,FRA,MFFW,Nice,Ligue 1,22.0,11,0,0,36,34,15,56,35.0,10
+Jofre,ESP,MFDF,Espanyol,La Liga,20.0,3,0,0,28,27,30,55,35.0,10
+Hélder Costa,ANG,MF,Leeds United,Premier League,28.0,1,0,0,25,26,36,52,35.0,7
+Stuart McKinstry,SCO,MF,Leeds United,Premier League,19.0,1,0,0,25,26,36,52,35.0,8
+Amadou Diawara,GUI,MF,Roma,Serie A,24.0,4,0,0,29,28,23,55,34.0,10
+Ilaix Moriba,GUI,MF,Valencia,La Liga,19.0,14,0,0,40,36,25,37,34.0,8
+Fran Mérida,ESP,MF,Espanyol,La Liga,32.0,10,0,0,35,33,13,57,34.0,11
+Tobias Raschl,GER,MF,Greuther Fürth,Bundesliga,22.0,10,0,0,42,33,32,31,34.0,8
+Nadiem Amiri,GER,MFFW,Genoa,Serie A,25.0,13,0,0,38,36,20,43,34.0,7
+Álvaro Vadillo,ESP,MFDF,Espanyol,La Liga,27.0,3,0,0,30,27,22,55,34.0,12
+Clément Grenier,FRA,MF,Mallorca,La Liga,31.0,5,0,1,49,58,27,3,34.0,9
+Felix Kalu Nmecha,GER,MFFW,Wolfsburg,Bundesliga,21.0,16,0,0,41,38,22,37,34.0,8
+Karol Linetty,POL,MFFW,Torino,Serie A,27.0,16,0,0,45,38,26,25,34.0,9
+Harvey Elliott,ENG,MF,Liverpool,Premier League,19.0,6,0,0,42,30,43,23,34.0,9
+Kaio Jorge,BRA,MFFW,Juventus,Serie A,20.0,9,0,0,34,32,27,41,34.0,10
+Gabriel Vidovic,CRO,MF,Bayern Munich,Bundesliga,18.0,3,0,0,28,27,28,51,34.0,8
+Denis Cheryshev,RUS,MF,Valencia,La Liga,31.0,17,0,0,52,39,9,38,34.0,7
+Eddie Salcedo,ITA,MFFW,Spezia,Serie A,20.0,12,0,0,45,35,25,30,34.0,10
+Tomás Mendes,ESP,MF,Alavés,La Liga,17.0,1,0,0,25,26,35,52,34.0,9
+Pablo Piatti,ARG,MFFW,Elche,La Liga,33.0,10,0,0,37,33,29,35,34.0,8
+Iñigo Pérez,ESP,MF,Osasuna,La Liga,34.0,10,0,1,35,64,10,29,34.0,8
+Maghnes Akliouche,FRA,MFFW,Monaco,Ligue 1,20.0,7,0,0,35,31,34,31,33.0,8
+Mahame Siby,MLI,MFDF,Strasbourg,Ligue 1,25.0,2,0,0,29,26,23,53,33.0,8
+Nikolas Nartey,DEN,MFDF,Stuttgart,Bundesliga,22.0,8,0,0,49,31,16,36,33.0,7
+Javier Ontiveros,ESP,MFFW,Osasuna,La Liga,24.0,3,0,0,28,27,22,54,33.0,9
+Lucas Da Cunha,FRA,MF,Nice,Ligue 1,20.0,10,0,0,34,33,20,44,33.0,11
+Niklas Pyyhtiä,FIN,MF,Bologna,Serie A,18.0,1,0,0,28,26,26,52,33.0,9
+Arnór Sigur?sson,ISL,MFFW,Venezia,Serie A,23.0,9,0,0,37,32,24,40,33.0,12
+Adrian Fein,GER,MF,Greuther Fürth,Bundesliga,23.0,3,0,0,30,27,21,55,33.0,9
+Christos Kourfalidis,GRE,MFDF,Cagliari,Serie A,19.0,2,0,0,29,26,23,53,33.0,9
+Bertrand Traoré,BFA,MFFW,Aston Villa,Premier League,26.0,9,0,0,33,32,32,36,33.0,9
+Fabio Miretti,ITA,MF,Juventus,Serie A,18.0,6,0,0,40,30,36,26,33.0,11
+Christian Eriksen,DEN,MF,Brentford,Premier League,30.0,11,0,1,40,41,29,22,33.0,7
+Chem Campbell,WAL,MF,Wolves,Premier League,19.0,1,0,0,25,26,28,52,33.0,4
+Sam Greenwood,ENG,MFFW,Leeds United,Premier League,20.0,7,0,0,44,31,17,37,32.0,9
+Nordine Kandil,FRA,MFFW,Strasbourg,Ligue 1,20.0,5,0,0,46,29,26,28,32.0,9
+Ozan Tufan,TUR,MF,Watford,Premier League,27.0,7,0,0,33,31,15,50,32.0,9
+Víctor Camarasa,ESP,MFFW,Betis,La Liga,28.0,7,0,0,51,31,42,3,32.0,6
+Hugo Novoa,ESP,MFFW,RB Leipzig,Bundesliga,19.0,8,0,1,33,61,6,28,32.0,11
+Paolo Faragò,ITA,MF,Cagliari,Serie A,29.0,1,0,0,28,26,22,52,32.0,10
+Martin Adeline,FRA,MFFW,Reims,Ligue 1,18.0,8,0,0,33,31,19,46,32.0,11
+Bryan,ESP,MFFW,Valencia,La Liga,21.0,13,0,0,40,36,11,41,32.0,9
+Mickaël Cuisance,FRA,MF,Bayern Munich,Bundesliga,22.0,1,0,0,25,26,49,28,32.0,9
+Cameron Archer,ENG,MFFW,Aston Villa,Premier League,20.0,3,0,0,28,27,38,36,32.0,10
+Cesc Fàbregas,ESP,MF,Monaco,Ligue 1,35.0,2,0,0,26,26,22,53,32.0,9
+Jason,ESP,MFDF,Valencia,La Liga,27.0,5,0,0,32,29,37,30,32.0,10
+Rémy Cabella,FRA,MFFW,Montpellier,Ligue 1,32.0,5,0,0,30,29,31,36,32.0,7
+Martin Palumbo,NOR,MF,Juventus,Serie A,20.0,1,0,0,28,26,19,52,31.0,12
+Théo Le Bris,FRA,MF,Lorient,Ligue 1,19.0,4,0,0,32,28,8,57,31.0,9
+Rubén Sobrino,ESP,MF,Valencia,La Liga,29.0,1,0,0,28,26,19,52,31.0,13
+Vincent Vermeij,NED,MF,Freiburg,Bundesliga,27.0,1,0,0,26,26,19,52,31.0,8
+Koba Koindredi,FRA,MF,Valencia,La Liga,20.0,10,0,0,53,33,34,3,31.0,11
+Juan Sánchez,ESP,MF,Sevilla,La Liga,18.0,1,0,0,28,26,19,52,31.0,9
+Ainsley Maitland-Niles,ENG,MF,Arsenal,Premier League,24.0,8,0,0,46,31,21,26,31.0,7
+Baptiste Santamaria,FRA,MF,Freiburg,Bundesliga,27.0,1,0,0,28,26,19,52,31.0,7
+Álvaro Bastida,ESP,MF,Cádiz,La Liga,18.0,6,0,0,30,30,35,29,31.0,13
+Barbero,ESP,MFFW,Osasuna,La Liga,23.0,6,0,0,30,30,3,60,31.0,10
+Daniel Ginczek,GER,MFFW,Wolfsburg,Bundesliga,31.0,2,0,0,26,26,20,53,31.0,9
+Leny Yoro,FRA,MF,Lille,Ligue 1,16.0,1,0,0,25,26,20,52,31.0,12
+Chema,ESP,MF,Getafe,La Liga,30.0,1,0,0,25,26,22,52,31.0,9
+Mathias Olesen,LUX,MF,Köln,Bundesliga,21.0,3,0,0,28,27,13,55,31.0,9
+Romain Philippoteaux,FRA,MF,Brest,Ligue 1,34.0,1,0,0,25,26,21,52,31.0,12
+Jesús Santiago,ESP,MF,Valencia,La Liga,18.0,3,0,0,28,27,16,54,31.0,12
+Isaac Price,NIR,MF,Everton,Premier League,18.0,1,0,0,28,26,19,52,31.0,12
+Lohann Doucet,FRA,MF,Nantes,Ligue 1,19.0,2,0,0,26,26,19,53,31.0,8
+Ragnar Ache,GER,MFFW,Eint Frankfurt,Bundesliga,23.0,13,0,0,38,36,5,44,31.0,7
+Dane Scarlett,ENG,MF,Tottenham,Premier League,18.0,1,0,0,25,26,19,52,30.0,9
+Stefano Sturaro,ITA,MF,Genoa,Serie A,29.0,25,0,0,57,46,11,4,30.0,9
+Francesco Cassata,ITA,MF,Genoa,Serie A,24.0,1,0,0,25,26,18,52,30.0,8
+Nassim Chadli,FRA,MFDF,Troyes,Ligue 1,20.0,8,0,0,35,31,10,44,30.0,7
+Daniel Villahermosa,ESP,MF,Espanyol,La Liga,21.0,1,0,0,25,26,35,34,30.0,13
+Jonathan Varane,FRA,MF,Lens,Ligue 1,20.0,1,0,0,25,26,19,52,30.0,8
+Sebastian Griesbeck,GER,MF,Union Berlin,Bundesliga,31.0,1,0,0,25,26,19,52,30.0,7
+Rubén Peña,ESP,MFFW,Villarreal,La Liga,30.0,7,0,0,35,31,24,30,30.0,12
+Nikita Iosifov,RUS,MF,Villarreal,La Liga,21.0,1,0,0,25,26,19,52,30.0,11
+Félix Lemaréchal,CIV,MF,Monaco,Ligue 1,18.0,1,0,0,25,26,32,35,30.0,10
+Stephan Fürstner,GER,MF,Mainz 05,Bundesliga,34.0,1,0,0,25,26,19,52,30.0,8
+Unai Ropero,ESP,MF,Alavés,La Liga,20.0,1,0,0,25,26,19,52,30.0,10
+Admir Mehmedi,SUI,MF,Wolfsburg,Bundesliga,31.0,1,0,0,25,26,19,52,30.0,10
+Yacine Qasmi,MAR,MF,Rayo Vallecano,La Liga,31.0,1,0,0,25,26,19,52,30.0,6
+Hugo Sotelo,ESP,MF,Celta Vigo,La Liga,18.0,1,0,0,25,26,18,52,30.0,10
+Samuel Koeberlé,FRA,MF,Reims,Ligue 1,17.0,1,0,0,25,26,19,52,30.0,13
+Ibrahim Diakité,FRA,MF,Reims,Ligue 1,18.0,1,0,0,25,26,19,52,30.0,12
+Daniele Baselli,ITA,MF,Cagliari,Serie A,30.0,9,0,0,34,32,20,33,30.0,11
+Alessandro Russo,ITA,MF,Salernitana,Serie A,18.0,1,0,0,25,26,19,52,30.0,11
+Torben Müsel,GER,MF,M'Gladbach,Bundesliga,22.0,1,0,0,25,26,19,52,30.0,9
+Carlo,ESP,MF,Villarreal,La Liga,21.0,1,0,0,25,26,19,52,30.0,10
+Theo Walcott,ENG,MFFW,Southampton,Premier League,33.0,9,0,0,35,32,14,37,30.0,8
+Edoardo Goldaniga,ITA,MFDF,Sassuolo,Serie A,28.0,1,0,0,25,26,19,52,30.0,8
+Jaume Grau,ESP,MF,Osasuna,La Liga,25.0,1,0,0,25,26,19,52,30.0,11
+Rubén Pardo,ESP,MF,Bordeaux,Ligue 1,29.0,1,0,0,25,26,19,52,30.0,12
+Robert Ibáñez,ESP,MF,Osasuna,La Liga,29.0,4,0,0,29,28,34,28,30.0,12
+Marcus Ingvartsen,DEN,MF,Union Berlin,Bundesliga,26.0,2,0,0,27,26,28,34,29.0,8
+Gianluca Gaetano,ITA,MF,Napoli,Serie A,22.0,2,0,0,26,26,12,53,29.0,7
+James Mcatee,ENG,MFFW,Manchester City,Premier League,19.0,2,0,0,26,26,10,53,29.0,6
+Amine Bassi,FRA,MF,Metz,Ligue 1,24.0,5,0,0,33,29,18,36,29.0,9
+Sacha Delaye,FRA,MFFW,Montpellier,Ligue 1,20.0,11,0,0,36,34,16,30,29.0,8
+Josip Brekalo,CRO,MF,Wolfsburg,Bundesliga,23.0,1,0,0,25,26,14,52,29.0,11
+Redwan Bourles,FRA,MFFW,Lorient,Ligue 1,19.0,4,0,0,29,28,3,57,29.0,10
+Jacopo Dezi,ITA,MF,Venezia,Serie A,30.0,1,0,0,28,26,28,34,29.0,13
+Taylor Richards,ENG,MFFW,Brighton,Premier League,21.0,2,0,0,26,26,37,27,29.0,10
+Marco Benassi,ITA,MF,Empoli,Serie A,27.0,12,0,0,39,35,21,22,29.0,9
+Dani Raba,ESP,MFFW,Villarreal,La Liga,26.0,7,0,0,32,31,13,40,29.0,13
+Thomas Delaney,DEN,MF,Dortmund,Bundesliga,30.0,1,0,0,25,26,12,52,29.0,7
+Marten Winkler,GER,MF,Hertha BSC,Bundesliga,19.0,1,0,0,28,26,5,52,28.0,7
+Crysencio Summerville,NED,MFFW,Leeds United,Premier League,20.0,6,0,0,32,30,14,38,28.0,10
+Tom Bischof,GER,MFFW,Hoffenheim,Bundesliga,16.0,1,0,0,28,26,5,52,28.0,6
+Luke Cundle,ENG,MF,Wolves,Premier League,20.0,4,0,0,29,28,50,3,28.0,5
+Chapela,ESP,MFFW,Cádiz,La Liga,23.0,9,0,0,44,32,9,29,28.0,14
+Nicolò Bertola,ITA,MFDF,Spezia,Serie A,19.0,2,0,0,26,26,7,53,28.0,11
+Valerio Verre,ITA,MFFW,Empoli,Serie A,28.0,8,0,0,32,31,19,31,28.0,10
+Nathan Tella,ENG,MFFW,Southampton,Premier League,22.0,14,0,0,43,36,7,23,27.0,9
+Álvaro Jiménez,ESP,MFFW,Cádiz,La Liga,27.0,9,0,0,35,32,5,35,27.0,15
+Jason,ESP,MFFW,Alavés,La Liga,27.0,14,0,0,43,36,6,23,27.0,11
+Silas Katompa,COD,MFFW,Stuttgart,Bundesliga,23.0,9,0,0,36,32,6,34,27.0,8
+Romain Del Castillo,FRA,MFFW,Rennes,Ligue 1,26.0,3,0,0,30,27,21,29,27.0,9
+Lee Dongjun,KOR,MF,Hertha BSC,Bundesliga,25.0,4,0,0,31,28,21,27,27.0,8
+Nemanja Radonji?,SRB,MF,Marseille,Ligue 1,26.0,1,0,0,25,26,30,28,27.0,5
+Jean-Philippe Gbamin,CIV,MF,Everton,Premier League,26.0,3,0,0,28,27,13,36,26.0,13
+Vagner Gonçalves,CPV,MFFW,Metz,Ligue 1,26.0,3,0,0,28,27,16,35,26.0,10
+Alex Král,CZE,MF,West Ham,Premier League,24.0,1,0,0,25,26,2,52,26.0,6
+Tommaso De Nipoti,ITA,MF,Atalanta,Serie A,18.0,1,0,0,25,26,2,52,26.0,7
+Daniel Chesters,ENG,MF,West Ham,Premier League,20.0,1,0,0,25,26,2,52,26.0,5
+Riccardo Pinzi,ITA,MF,Udinese,Serie A,18.0,1,0,0,25,26,3,52,26.0,7
+Sada Thioub,SEN,MF,Angers,Ligue 1,26.0,1,0,0,25,26,3,52,26.0,8
+Patrick Leal,USA,MF,Venezia,Serie A,19.0,1,0,0,26,26,2,52,26.0,14
+José Pozo,ESP,MF,Rayo Vallecano,La Liga,26.0,5,0,0,32,29,42,3,26.0,7
+Elhadji Dieye,SEN,MFFW,Saint-Étienne,Ligue 1,19.0,5,0,0,33,29,3,38,26.0,9
+Umut Tohumcu,GER,MF,Hoffenheim,Bundesliga,17.0,1,0,0,25,26,2,52,26.0,7
+Luis Hartwig,GER,MF,Bochum,Bundesliga,19.0,1,0,0,25,26,2,52,26.0,7
+Romario Rösch,GER,MF,Mainz 05,Bundesliga,22.0,1,0,0,25,26,2,52,26.0,9
+Immanuel Pherai,NED,MF,Dortmund,Bundesliga,21.0,1,0,0,25,26,2,52,26.0,8
+Enzo Millot,FRA,MF,Stuttgart,Bundesliga,19.0,6,0,0,30,30,38,3,25.0,9
+Iker Benito,ESP,MFFW,Osasuna,La Liga,19.0,4,0,0,32,28,12,26,24.0,13
+Iván Martín,ESP,MF,Alavés,La Liga,23.0,6,0,0,31,30,31,3,24.0,12
+Luca Gagliano,ITA,MFDF,Cagliari,Serie A,21.0,2,0,0,29,26,37,2,24.0,12
+Cheikh Niasse,SEN,MFFW,Lille,Ligue 1,22.0,4,0,0,47,28,17,3,24.0,13
+Fisnik Asllani,KVX,MFFW,Hoffenheim,Bundesliga,19.0,2,0,0,26,26,40,2,24.0,8
+Lewis Bate,ENG,MF,Leeds United,Premier League,19.0,3,0,0,28,27,14,27,24.0,11
+Tyler Onyango,ENG,MFFW,Everton,Premier League,19.0,3,0,0,28,27,3,36,24.0,14
+Yannik Keitel,GER,MF,Freiburg,Bundesliga,22.0,12,0,0,46,35,12,3,24.0,9
+Antonin Bobichon,FRA,MFFW,Angers,Ligue 1,26.0,4,0,0,29,28,33,3,23.0,9
+Jaïro Riedewald,NED,MF,Crystal Palace,Premier League,25.0,3,0,0,30,27,32,2,23.0,8
+Cedric Teuchert,GER,MFFW,Union Berlin,Bundesliga,25.0,6,0,0,33,30,21,3,22.0,9
+Mads Bidstrup,DEN,MF,Brentford,Premier League,21.0,4,0,0,31,28,25,3,22.0,8
+Javier Serrano,ESP,MF,Atlético Madrid,La Liga,19.0,5,0,0,29,29,25,3,22.0,6
+Marley Aké,FRA,MFFW,Juventus,Serie A,21.0,4,0,0,29,28,23,3,21.0,13
+Anderson Lima,BRA,MF,Lazio,Serie A,22.0,4,0,0,30,28,21,3,20.0,8
+Kacper Urbanski,POL,MF,Bologna,Serie A,17.0,1,0,0,28,26,25,2,20.0,10
+Mehdi Chahiri,MAR,MF,Strasbourg,Ligue 1,25.0,1,0,0,25,26,3,27,20.0,10
+Keita Endo,JPN,MFFW,Union Berlin,Bundesliga,24.0,4,0,0,30,28,21,3,20.0,10
+Paul Nebel,GER,MFFW,Mainz 05,Bundesliga,19.0,10,0,0,35,33,6,3,19.0,10
+Myziane Maolida,FRA,MFFW,Nice,Ligue 1,23.0,1,0,0,28,26,19,2,19.0,12
+Jon Morcillo,ESP,MF,Athletic Club,La Liga,23.0,7,0,0,34,31,8,3,19.0,9
+Anton Kade,GER,MFDF,Hertha BSC,Bundesliga,18.0,4,0,0,29,28,10,3,18.0,9
+Sebastian Giovinco,ITA,MF,Sampdoria,Serie A,35.0,2,0,0,26,26,8,2,16.0,16
+William Smallbone,IRL,MFFW,Southampton,Premier League,22.0,4,0,0,31,28,4,3,16.0,10
