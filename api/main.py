@@ -4,6 +4,8 @@ import pandas as pd
 app = Flask(__name__)
 
 data_players = pd.read_csv("NotesAtq.csv")
+print(data_players)
+
 @app.route('/')
 def index():
     return 'Hello, World!'
@@ -12,7 +14,9 @@ def index():
 def get_info_player(name):
     #{name:{"tirs":10}}
     #data_players
-    return '{} {}'.format(data_players.iloc[:10].to_dict(), "test") 
+    #return data_players.iloc[:10].to_dict()
+    player_data = data_players.loc[data_players['Player'] == name].iloc[:, 1:]
+    return player_data.to_dict()
 
 if __name__ == '__main__':
     app.run(host='localhost', port=5000)
