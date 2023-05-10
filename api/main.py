@@ -3,7 +3,7 @@ from dash import Dash
 import pandas as pd
 app = Flask(__name__)
 
-data_players = pd.read_csv("NotesAtq.csv")
+data_players = pd.read_csv("notesGlobales.csv")
 print(data_players)
 
 @app.route('/')
