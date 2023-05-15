@@ -5,12 +5,16 @@ import requests
 import plotly.express as px
 import plotly.graph_objects as go
 import dash_bootstrap_components as dbc
+from PIL import Image
+import base64
+import io
+import os
 
 app = Dash(__name__, url_base_pathname='/app/', external_stylesheets=[dbc.themes.BOOTSTRAP])
 data = requests.get("http://localhost:5000/get_player/Ola-Aina").json()
 jso_result = pd.DataFrame(data)
 print(app)
-data_players = pd.read_csv("notesGlobales.csv")
+data_players = pd.read_csv("notesFinalesImg.csv")
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
 
@@ -18,53 +22,54 @@ app.layout = html.Div([
     html.H1(children='En sah, les meilleurs joueurs de foot', style={'textAlign':'center'}),
     dcc.Dropdown(data_players['Player'], data_players['Player'].iloc[0], id='dropdown-selection'),
     dbc.Row([
-        #TODO CHATGPT OU SYNTHAXE (UNE COL POUR LE GRAPH ET UNE POUR LE GRAPHIQUE)
         dbc.Col([
             dcc.Graph(id='graph-content')
         ]),
         dbc.Col([
-    dbc.Card([
-            dbc.Row(
-            [
-                dbc.Col(
-                    dbc.CardImg(
-                        src="/static/images/portrait-placeholder.png",
-                        className="img-fluid rounded-start",
-                    ),
-                    className="col-md-4",
-                ),
-                dbc.Col(
-                    dbc.CardBody(
-                        [
-                            html.H4(id="namePlayer"),
-                            html.P(
-                                id="ligue"),
-                            html.P(
-                                id="nation"
+            dbc.Card([
+                    dbc.Row(
+                    [
+                        dbc.Col(
+                            id="src"
+                        ),
+                        dbc.Col(
+                            dbc.CardBody(
+                                [
+                                    html.H4(id="namePlayer"),
+                                    html.P(
+                                        id="ligue"),
+                                    html.P(
+                                        id="nation"
+                                    ),
+                                    html.P(
+                                        id="equipe"
+                                    ),
+                                    html.P(
+                                        id="puissance"
+                                    ),
+                                    html.P(
+                                        id="image"
+                                    ),
+                                    html.Small(
+                                        "Copyright © entrepriseTopBudget",
+                                        className="card-text text-muted",
+                                    ),
+                                ]
                             ),
-                            html.P(
-                                id="equipe"
-                            ),
-                            html.P(
-                                id="puissance"
-                            ),
-                            html.Small(
-                                "Copyright © entrepriseTopBudget",
-                                className="card-text text-muted",
-                            ),
-                        ]
-                    ),
-                    className="col-md-8",
-                ),
-            ],
-            className="g-0 d-flex align-items-center",
-        )
+                            className="col-md-8",
+                        ),
+                    ],
+                    className="g-0 d-flex align-items-center",
+                )
+            ])
+        ])
             ],className="g-0 d-flex align-items-center")
     #create_polar_chart(jso_result)
 ])
 @callback(
     [Output('graph-content', 'figure'), Output("namePlayer", "children"),
-     Output("ligue", "children"), Output("nation", "children"), Output("equipe", "children"), Output("puissance", "children")],
+     Output("ligue", "children"), Output("nation", "children"), Output("equipe", "children"), Output("puissance", "children"),
+     Output("src", "children")],
     Input('dropdown-selection', 'value')
 )
 def graph_and_cart(value):
@@ -152,7 +157,17 @@ def graph_and_cart(value):
     equipe = "🔰 Équipe : " + str(squad) + ""
     puissance = "🧮 Puissance : " + str(noteFinale) + ""
     nation = "🌎 Nation : " + str(nationalite) + ""
-    return fig, name, ligueName, equipe, puissance, nation
+    imageBase64 = jso_result['img'][0]
+    print("=========================")
+    image_bytes = base64.b64decode(imageBase64.split(',')[1])
+    image = Image.open(io.BytesIO(image_bytes))
+
+    src = "static/" + name + '.png'
+    image.save(src)
+    src = "/" + src
+    print(src)
+    src = dbc.CardImg(src=src)
+    return fig, name, ligueName, equipe, puissance, nation, src
 
 
 # def generate_table(jso_result, max_rows=10):
